@@ -1,0 +1,1937 @@
+"ciudad","actividad_industrial","usa_agua_proceso","tratamiento_aguas","costo_mantenimiento_tratamiento","fuente_agua","volumen_consumido_m3","costo_consumo_mensual","numero_empleados"
+"Quito","química","no","sí",1583.53,"río",890.5,829.74,78
+"Ambato","metalmecánica","sí","sí",1251.76,"red municipal",1017.6,990.53,105
+"Loja","plásticos","sí","sí",1465.6,"río",887.7,851.36,85
+"Manta","plásticos","sí","sí",1865.33,"red municipal",1043.2,822.29,90
+"Guayaquil","química","sí","sí",1814.8,"pozo y río",816.3,558.91,84
+"Manta","farmacéutica","no","no",NA,"red municipal",718.9,489.93,86
+"Ambato","plásticos","sí","sí",916.36,"pozo y río",1006.3,888.46,83
+"Loja","plásticos","sí","sí",1266.68,"red municipal y río",880.1,879.33,84
+"Quito","química","sí","sí",2243.57,"red municipal y pozo y río",761.9,796.65,78
+"Quito","metalmecánica","sí","sí",1322.23,"pozo y río",946.6,1059.81,83
+"Loja","procesamiento de alimentos","sí","sí",598.65,"red municipal",731.5,722.26,82
+"Guayaquil","textil","sí","no",NA,"red municipal y río",756.9,694.62,78
+"Cuenca","plásticos","sí","sí",950.17,"red municipal y pozo",835.4,867.8,87
+"Cuenca","plásticos","sí","sí",1242.09,"pozo y río",1080,1206.69,72
+"Loja","metalmecánica","sí","sí",2337.06,"red municipal y río",967.2,934.09,87
+"Manta","metalmecánica","sí","sí",2166.5,"pozo",939.6,763.15,92
+"Manta","metalmecánica","sí","sí",1347.9,"red municipal y pozo",897,733.11,102
+"Guayaquil","química","sí","sí",2022.14,"red municipal",835.5,566.51,92
+"Quito","química","no","sí",1113.17,"pozo y río",729,650.65,91
+"Manta","farmacéutica","sí","sí",1451.56,"red municipal",767.7,676.82,91
+"Loja","textil","no","sí",1827.06,"red municipal",675.8,770.77,88
+"Manta","metalmecánica","sí","no",NA,"red municipal",917.1,637.35,78
+"Manta","plásticos","sí","sí",1153.95,"red municipal",987.1,710.22,79
+"Loja","metalmecánica","sí","sí",1850.72,"red municipal y pozo",718.7,767.69,93
+"Guayaquil","plásticos","sí","sí",1215.17,"red municipal y pozo",675.7,553.55,92
+"Cuenca","plásticos","no","sí",821.02,"red municipal",551.8,597.33,88
+"Ambato","metalmecánica","sí","sí",1224.84,"río",992.9,921.03,90
+"Quito","metalmecánica","sí","no",NA,"pozo y río",884.7,985.41,82
+"Quito","plásticos","sí","sí",2335.7,"pozo y río",1015.4,1023.3,98
+"Quito","farmacéutica","sí","sí",1253,"red municipal y pozo",683,670.08,78
+"Ambato","procesamiento de alimentos","no","sí",799.01,"red municipal",739.8,687.74,94
+"Ambato","farmacéutica","sí","sí",1322.83,"río",870.6,992.88,97
+"Manta","procesamiento de alimentos","sí","sí",1033.74,"pozo y río",772.8,693.51,97
+"Ambato","procesamiento de alimentos","sí","sí",1550,"pozo",835,792.49,94
+"Guayaquil","metalmecánica","sí","sí",1451.95,"red municipal y pozo",831.8,709.47,78
+"Cuenca","procesamiento de alimentos","no","no",NA,"pozo y río",679.2,672.93,81
+"Ambato","metalmecánica","sí","no",NA,"río",883.6,903.36,91
+"Loja","procesamiento de alimentos","sí","sí",1060.96,"pozo",937.2,887.38,105
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"red municipal",1035.8,729.23,84
+"Cuenca","textil","sí","sí",2756.56,"pozo",948.7,969.7,79
+"Ambato","farmacéutica","sí","sí",2493.36,"red municipal",989,945.16,87
+"Ambato","procesamiento de alimentos","no","sí",1454.95,"red municipal y pozo",884.2,803.69,67
+"Ambato","procesamiento de alimentos","no","sí",549.2,"red municipal",668.7,682.91,88
+"Guayaquil","química","sí","no",NA,"red municipal",685,523.39,77
+"Cuenca","química","no","sí",2084.07,"red municipal",535.2,552,94
+"Ambato","farmacéutica","sí","no",NA,"red municipal y río",788.1,796.66,83
+"Cuenca","metalmecánica","sí","sí",1436.94,"río",1069.1,1100.18,85
+"Manta","textil","sí","sí",723.03,"pozo y río",797.6,622.5,95
+"Quito","procesamiento de alimentos","sí","sí",2146.52,"red municipal y pozo y río",787.5,777.4,87
+"Ambato","metalmecánica","sí","no",NA,"red municipal y pozo",776.4,830.26,69
+"Loja","química","sí","sí",1921.27,"red municipal y pozo",934.6,949.7,92
+"Loja","plásticos","sí","sí",1230.28,"río",751.6,740.8,97
+"Quito","farmacéutica","sí","no",NA,"red municipal",751.6,792.12,77
+"Quito","farmacéutica","sí","no",NA,"red municipal y pozo",843.3,866.54,87
+"Manta","química","sí","no",NA,"río",904.7,644.44,104
+"Guayaquil","química","sí","sí",1707.75,"red municipal",824,735.77,84
+"Loja","metalmecánica","sí","sí",1674.87,"pozo",932.7,1014.9,92
+"Guayaquil","química","sí","sí",1261.96,"pozo",978.4,758.01,113
+"Loja","plásticos","sí","no",NA,"red municipal",855.2,798.03,85
+"Ambato","química","no","sí",2515.84,"río",619,663.76,97
+"Cuenca","farmacéutica","no","sí",1204.91,"río",463.3,456.12,83
+"Quito","química","sí","no",NA,"red municipal y pozo",629.4,707.25,80
+"Quito","plásticos","no","no",NA,"pozo",587,501.85,85
+"Manta","farmacéutica","sí","no",NA,"red municipal y pozo",638.1,530.2,92
+"Loja","química","sí","no",NA,"red municipal y río",912.1,978.54,84
+"Quito","plásticos","no","sí",527.07,"red municipal y pozo y río",490.2,435.24,90
+"Manta","química","sí","no",NA,"red municipal y pozo",785.9,706.79,96
+"Loja","textil","no","no",NA,"red municipal y río",576.2,534.83,87
+"Manta","plásticos","no","sí",1904.12,"red municipal",653.4,521.85,92
+"Manta","farmacéutica","sí","sí",1376.96,"red municipal y río",1119.5,976.2,88
+"Manta","plásticos","sí","no",NA,"pozo",1122.7,936.93,88
+"Loja","farmacéutica","sí","sí",861.91,"red municipal",975.6,877.61,93
+"Ambato","química","no","no",NA,"río",643.7,608.26,89
+"Cuenca","metalmecánica","no","sí",1465.81,"red municipal y pozo y río",650.2,741.67,86
+"Ambato","procesamiento de alimentos","sí","no",NA,"pozo",2234.33353298712,1836.54663163749,360
+"Guayaquil","metalmecánica","sí","sí",-52.24,"pozo",736.2,671.2,88
+"Quito","textil","sí","sí",2173.49,"red municipal",1012.1,861.38,93
+"Loja","plásticos","sí","sí",1346.69,"red municipal y pozo y río",732.8,826.6,80
+"Quito","procesamiento de alimentos","sí","sí",1303.04,"red municipal",737.1,755.5,77
+"Ambato","procesamiento de alimentos","sí","sí",1505.15,"red municipal",778.9,780.91,83
+"Ambato","metalmecánica","sí","sí",1267.71,"pozo",1002,885.93,82
+"Guayaquil","textil","sí","no",NA,"red municipal",834.7,643.3,77
+"Loja","plásticos","sí","no",NA,"red municipal y pozo",621.6,611.75,72
+"Quito","farmacéutica","sí","no",NA,"red municipal",900.8,982.26,77
+"Guayaquil","procesamiento de alimentos","sí","sí",2278.35,"red municipal y pozo",825.4,663.39,89
+"Loja","química","sí","no",NA,"río",861.9,948.06,92
+"Loja","plásticos","sí","sí",1981.57,"red municipal y pozo",814.3,756.82,88
+"Cuenca","procesamiento de alimentos","no","no",NA,"pozo",681.7,638.78,84
+"Guayaquil","metalmecánica","sí","no",NA,"pozo",817.5,666.13,91
+"Ambato","metalmecánica","no","sí",1608.17,"red municipal y pozo",572.4,651.26,91
+"Manta","farmacéutica","sí","sí",1335.98,"red municipal",730.8,525.77,70
+"Cuenca","metalmecánica","no","no",NA,"pozo",741.9,800.54,68
+"Ambato","metalmecánica","sí","no",NA,"red municipal",888.6,872.05,101
+"Loja","metalmecánica","sí","no",NA,"red municipal",767.4,769.74,97
+"Quito","textil","sí","sí",1889.33,"red municipal y río",870.3,838.17,83
+"Ambato","textil","sí","no",NA,"red municipal y pozo",854.9,979.45,75
+"Manta","plásticos","sí","sí",736.16,"red municipal y pozo",825.7,645.27,86
+"Guayaquil","química","no","sí",2207.14,"pozo",589.8,528.4,82
+"Ambato","plásticos","no","sí",1181.31,"red municipal",744.3,726.53,90
+"Ambato","plásticos","sí","sí",828.92,"red municipal y pozo",920.2,1007.84,84
+"Manta","procesamiento de alimentos","no","sí",2133.36,"red municipal",753.6,649.07,91
+"Cuenca","metalmecánica","no","sí",2361.59,"pozo y río",434.4,398.83,70
+"Guayaquil","procesamiento de alimentos","sí","sí",1658,"pozo",1039.5,759.78,80
+"Quito","farmacéutica","sí","no",NA,"pozo y río",891.9,883.07,87
+"Cuenca","procesamiento de alimentos","sí","sí",1111.62,"red municipal y pozo",685.8,671.5,86
+"Cuenca","farmacéutica","sí","sí",1401.04,"red municipal y pozo",873.6,796.77,82
+"Cuenca","química","sí","sí",1509.31,"red municipal y río",750.8,759.1,81
+"Guayaquil","procesamiento de alimentos","sí","sí",1279.76,"pozo",987.5,658.53,82
+"Cuenca","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",716.2,651.9,84
+"Guayaquil","metalmecánica","sí","sí",1604.87,"red municipal",933.2,729.78,82
+"Ambato","farmacéutica","sí","no",NA,"red municipal y pozo",868,908.84,82
+"Loja","farmacéutica","no","no",NA,"red municipal y río",529.9,481.37,62
+"Ambato","metalmecánica","sí","no",NA,"red municipal y pozo",767.6,725.17,93
+"Quito","química","sí","sí",1096.03,"red municipal y río",797.9,894.79,74
+"Ambato","textil","no","sí",1390.29,"pozo",806,925.5,85
+"Cuenca","procesamiento de alimentos","sí","sí",1983.69,"red municipal",913.2,850.2,91
+"Quito","farmacéutica","sí","sí",1364.05,"pozo y río",914.8,968.88,78
+"Cuenca","procesamiento de alimentos","no","no",NA,"red municipal",630.6,697.65,76
+"Quito","metalmecánica","sí","no",NA,"red municipal",868.1,743.47,88
+"Ambato","plásticos","no","sí",1366.96,"río",717.3,667.87,76
+"Ambato","metalmecánica","no","sí",1539.33,"pozo y río",636.4,705.25,91
+"Quito","química","sí","sí",1664.16,"río",744.4,718.04,91
+"Quito","plásticos","no","sí",1908.44,"pozo y río",383.7,373.2,91
+"Ambato","metalmecánica","sí","sí",1467.32,"pozo y río",1030.2,1073.88,92
+"Quito","química","sí","sí",1324.82,"red municipal y río",862.6,853.47,73
+"Guayaquil","química","sí","sí",1305.6113562216,"red municipal y pozo",1609.94937026391,1397.34395425355,203
+"Guayaquil","química","sí","no",NA,"red municipal",811.4,703.61,93
+"Manta","procesamiento de alimentos","sí","sí",1091.86,"red municipal",912,828.24,87
+"Cuenca","química","sí","no",NA,"red municipal",831.2,903.76,78
+"Cuenca","química","sí","no",NA,"red municipal y pozo",734.6,821.57,85
+"Manta","textil","sí","no",NA,"red municipal",870.2,582.96,93
+"Manta","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",914.9,721.34,71
+"Cuenca","textil","no","no",NA,"pozo",828.5,872.14,88
+"Cuenca","textil","sí","sí",1389.21,"pozo y río",848.6,755.69,107
+"Loja","metalmecánica","sí","sí",1739.67,"red municipal",933.4,894.48,81
+"Ambato","química","sí","sí",1300.09,"red municipal y río",903.5,987.84,90
+"Cuenca","procesamiento de alimentos","sí","sí",1746.51,"río",800.5,744.72,79
+"Ambato","textil","sí","sí",1405.97,"red municipal y pozo y río",836.1,754.18,97
+"Quito","textil","sí","no",NA,"río",756.1,834.43,78
+"Ambato","plásticos","sí","sí",1378.11,"red municipal y pozo",930.7,903.69,73
+"Ambato","procesamiento de alimentos","sí","sí",1663.18,"pozo",1053.3,1106.95,91
+"Loja","farmacéutica","sí","sí",1508.92,"pozo",1053.6,1066.88,82
+"Loja","textil","sí","sí",1624.98,"río",620.8,617.77,85
+"Guayaquil","metalmecánica","no","no",NA,"red municipal y pozo y río",838.4,572.12,87
+"Manta","plásticos","sí","sí",915.83,"pozo",818.9,545.08,84
+"Quito","química","sí","no",NA,"pozo",915.2,1031.36,86
+"Cuenca","metalmecánica","sí","sí",2154.51,"red municipal y pozo",1017.2,1126.1,85
+"Loja","farmacéutica","no","no",NA,"red municipal",634,727.69,73
+"Guayaquil","química","no","sí",1158.17,"red municipal",639.4,602.71,74
+"Manta","metalmecánica","sí","sí",2391.73,"red municipal",873.7,769.23,89
+"Guayaquil","textil","no","no",NA,"pozo y río",719.3,586.96,79
+"Loja","plásticos","sí","no",NA,"red municipal y río",871.4,822.92,83
+"Quito","procesamiento de alimentos","sí","sí",1823.06,"río",770.5,714.27,88
+"Guayaquil","plásticos","sí","sí",2813.44,"pozo",882.2,793.21,67
+"Quito","plásticos","sí","no",NA,"red municipal y río",726.1,622.59,73
+"Ambato","procesamiento de alimentos","sí","no",NA,"pozo",819.1,776.16,89
+"Cuenca","farmacéutica","sí","sí",1108.09,"pozo",870.6,863.06,76
+"Cuenca","procesamiento de alimentos","sí","sí",2481.85946667259,"red municipal",2261.57882712933,1677.59065044088,265
+"Cuenca","metalmecánica","sí","no",NA,"pozo",856.9,837.44,88
+"Manta","textil","no","sí",1843.42,"pozo y río",779.4,529.01,86
+"Guayaquil","química","sí","sí",1420.77,"red municipal",909.3,702.98,95
+"Ambato","química","sí","no",NA,"red municipal y pozo",1625.59595855311,1746.29716299947,206
+"Ambato","procesamiento de alimentos","sí","sí",2090.3,"red municipal",1060.9,940.7,105
+"Guayaquil","textil","no","sí",605.27,"red municipal",740,670.28,94
+"Guayaquil","farmacéutica","sí","no",NA,"pozo",879.8,771.43,74
+"Cuenca","plásticos","sí","no",NA,"red municipal",1067.2,1037.21,90
+"Cuenca","procesamiento de alimentos","no","sí",975.89,"red municipal",742,825.46,81
+"Ambato","farmacéutica","sí","sí",2020.47,"red municipal y pozo",815,857.69,73
+"Loja","farmacéutica","sí","no",NA,"red municipal",984.3,923.88,92
+"Manta","farmacéutica","sí","sí",2050.49,"red municipal y pozo",833.9,586.2,72
+"Loja","plásticos","sí","no",NA,"red municipal",860.9,865.01,72
+"Loja","farmacéutica","sí","sí",1664.25,"red municipal y pozo y río",775.5,871.23,83
+"Manta","procesamiento de alimentos","sí","sí",883.2,"pozo y río",860.6,758.8,90
+"Cuenca","metalmecánica","sí","no",NA,"red municipal",1085.3,1170.57,100
+"Quito","plásticos","sí","sí",877.98,"red municipal",794.9,747.44,86
+"Ambato","plásticos","sí","sí",1030.73,"río",851.7,743.6,91
+"Cuenca","plásticos","sí","sí",1262.13,"red municipal",949.9,1021.2,89
+"Quito","química","sí","sí",1336.89,"pozo y río",742.8,805.3,93
+"Guayaquil","química","sí","no",NA,"pozo",765.1,543.54,88
+"Cuenca","química","sí","no",NA,"pozo",1003,924.8,104
+"Cuenca","farmacéutica","no","sí",1912.88,"río",716.5,673.7,94
+"Guayaquil","plásticos","no","sí",2226.14,"red municipal y pozo",729.7,652.85,78
+"Manta","textil","no","no",NA,"red municipal y río",631.1,499.6,86
+"Quito","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",1287.4,1215.88,80
+"Manta","plásticos","sí","sí",709.72,"red municipal",821.8,650.75,91
+"Cuenca","metalmecánica","sí","sí",1676.44,"red municipal",908.6,993.56,102
+"Manta","farmacéutica","no","sí",1953.53,"pozo",702.4,661.38,81
+"Cuenca","textil","sí","sí",2602.17,"red municipal y pozo",814.2,704.19,87
+"Quito","química","sí","sí",2694.46,"red municipal y río",1018.8,1012.04,78
+"Ambato","procesamiento de alimentos","sí","no",NA,"red municipal",807.2,750.54,83
+"Ambato","farmacéutica","sí","sí",1070.67,"red municipal",1077.2,958.97,79
+"Quito","procesamiento de alimentos","no","no",NA,"red municipal y río",855.9,875.88,84
+"Loja","metalmecánica","sí","no",NA,"río",659.5,576.22,80
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",965.4,908.75,100
+"Guayaquil","farmacéutica","sí","no",NA,"red municipal",915.2,749.15,80
+"Cuenca","metalmecánica","sí","sí",1852.26,"red municipal y río",771.6,711.54,81
+"Ambato","química","sí","no",NA,"red municipal",810.8,733.41,92
+"Quito","farmacéutica","sí","sí",1293.29,"red municipal",1051,1189.34,80
+"Ambato","química","sí","sí",2126.6,"red municipal",867.6,746.31,87
+"Manta","procesamiento de alimentos","sí","sí",1823.55,"red municipal",890.4,758.44,91
+"Manta","metalmecánica","sí","no",NA,"red municipal",866.1,579.46,95
+"Quito","procesamiento de alimentos","sí","sí",1660.4,"pozo",911.3,821.03,91
+"Guayaquil","plásticos","no","sí",1396.41,"red municipal y río",742.3,617.93,84
+"Cuenca","metalmecánica","no","sí",1123.84,"red municipal y pozo",587.2,555.47,89
+"Loja","plásticos","no","no",NA,"red municipal",675.5,592.65,96
+"Guayaquil","plásticos","sí","sí",1865.42,"red municipal",971.7,699.43,80
+"Loja","metalmecánica","sí","sí",1338.24,"red municipal",991.9,891.92,79
+"Ambato","procesamiento de alimentos","sí","sí",2024.21,"red municipal y pozo y río",676.8,615.8,73
+"Quito","metalmecánica","sí","sí",1244.35,"pozo",1095.8,1137.5,96
+"Cuenca","textil","no","sí",2395.71,"pozo",703.1,649.39,87
+"Ambato","farmacéutica","sí","no",NA,"red municipal y río",820.6,802.74,81
+"Ambato","procesamiento de alimentos","sí","sí",1738.5,"pozo y río",606.2,666.57,82
+"Cuenca","procesamiento de alimentos","sí","sí",1776.22,"red municipal",799.1,718.99,96
+"Quito","química","sí","sí",1421.05,"red municipal",850.8,744.45,78
+"Ambato","procesamiento de alimentos","sí","no",NA,"pozo",840.5,924.43,82
+"Guayaquil","metalmecánica","sí","sí",554.1,"red municipal y pozo y río",846.6,800.01,79
+"Manta","farmacéutica","sí","sí",289.11,"pozo",685.6,495.7,77
+"Manta","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",828.7,753.58,84
+"Guayaquil","textil","sí","no",NA,"red municipal y río",1086,736.58,78
+"Quito","textil","sí","sí",1002.25,"red municipal y río",929,847.37,98
+"Manta","metalmecánica","sí","sí",1432.65,"pozo",989.8,729.36,95
+"Loja","química","sí","no",NA,"red municipal",929.3,850.73,80
+"Ambato","metalmecánica","sí","sí",1704.44,"red municipal",1064.9,1029.65,96
+"Guayaquil","metalmecánica","sí","sí",1584.67,"red municipal",756.1,589.69,91
+"Ambato","textil","sí","sí",1920.8,"red municipal",750.2,820.64,85
+"Cuenca","farmacéutica","sí","no",NA,"pozo",785.3,706.89,76
+"Manta","química","sí","no",NA,"red municipal",904.7,799.35,74
+"Manta","plásticos","sí","no",NA,"pozo",875,661.46,94
+"Guayaquil","procesamiento de alimentos","sí","sí",987.99,"red municipal y pozo y río",910.7,804.23,81
+"Guayaquil","metalmecánica","sí","sí",1177.55,"río",888.6,842.37,82
+"Quito","química","sí","no",NA,"red municipal",1064.2,1213.34,67
+"Manta","química","sí","sí",1750.37,"pozo",1082,814.49,80
+"Loja","química","sí","no",NA,"red municipal",895.2,972.13,92
+"Manta","metalmecánica","sí","sí",2398.33,"pozo",922.1,814.18,85
+"Cuenca","metalmecánica","sí","no",NA,"pozo",1824.08881592285,2014.67406172353,252
+"Guayaquil","procesamiento de alimentos","sí","sí",2222.11,"río",824,635.58,93
+"Cuenca","metalmecánica","sí","no",NA,"red municipal",1070.8,1026.59,85
+"Guayaquil","textil","sí","no",NA,"río",948.9,716,104
+"Quito","textil","sí","no",NA,"pozo",898.4,1005.63,104
+"Ambato","textil","sí","sí",1257.22,"red municipal y río",916.9,927.5,83
+"Cuenca","metalmecánica","sí","sí",1729.76404674543,"red municipal y pozo y río",2044.13286743271,1739.9250753535,316
+"Manta","plásticos","sí","sí",772.69,"pozo y río",735,550.65,81
+"Manta","textil","sí","no",NA,"pozo y río",840.2,747.19,92
+"Loja","textil","sí","sí",2223.31,"red municipal y río",1179.4,1212.72,88
+"Guayaquil","textil","sí","no",NA,"red municipal",762.3,712.86,78
+"Cuenca","metalmecánica","sí","no",NA,"pozo",838.8,747.02,81
+"Loja","farmacéutica","sí","no",NA,"río",846.2,837.01,104
+"Guayaquil","metalmecánica","sí","no",NA,"red municipal",858.4,808.92,89
+"Manta","metalmecánica","no","sí",980.18,"red municipal",780.2,686.88,79
+"Loja","química","no","sí",1817.1,"red municipal",516.9,554.86,98
+"Manta","procesamiento de alimentos","sí","no",NA,"red municipal",1048.9,725.26,89
+"Ambato","procesamiento de alimentos","sí","no",NA,"río",832.2,790.48,91
+"Loja","farmacéutica","sí","sí",1474.65,"red municipal y pozo",787.4,826.72,87
+"Quito","metalmecánica","sí","no",NA,"red municipal",923.6,1015.21,85
+"Guayaquil","metalmecánica","no","no",NA,"red municipal y pozo",763,715.46,89
+"Quito","textil","sí","no",NA,"río",860.6,855.37,83
+"Loja","plásticos","no","sí",921.26,"pozo",640.5,595.87,87
+"Cuenca","procesamiento de alimentos","sí","no",NA,"río",861.6,829.93,88
+"Manta","textil","sí","no",NA,"red municipal",808.5,589.42,98
+"Guayaquil","plásticos","sí","sí",1843.14,"red municipal y pozo",1032.6,935.37,100
+"Cuenca","farmacéutica","sí","no",NA,"río",838.8,924.01,80
+"Manta","metalmecánica","no","no",NA,"red municipal",720.2,651.55,85
+"Manta","química","sí","sí",1279.13,"pozo y río",837.5,650.96,90
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"red municipal",966.9,914.23,79
+"Manta","farmacéutica","no","no",NA,"red municipal y río",1705.57590437848,1285.64344433926,215
+"Cuenca","farmacéutica","sí","no",NA,"río",995.5,898.79,87
+"Cuenca","metalmecánica","sí","no",NA,"pozo",785.9,809.82,79
+"Guayaquil","plásticos","sí","no",NA,"pozo",823.9,781.67,102
+"Manta","metalmecánica","sí","sí",2136.32,"red municipal",887.6,818.92,86
+"Manta","plásticos","sí","sí",1388.11,"río",905,721.91,74
+"Cuenca","textil","sí","sí",1727.2,"río",892.4,766.23,102
+"Loja","farmacéutica","no","no",NA,"pozo y río",740.5,655.62,100
+"Cuenca","química","sí","no",NA,"pozo",877.9,941.55,91
+"Guayaquil","metalmecánica","sí","sí",941.59,"pozo",1119.6,1054.96,96
+"Manta","metalmecánica","sí","sí",1769.73,"pozo",956.2,818.87,81
+"Cuenca","textil","sí","no",NA,"río",866.9,737.49,90
+"Manta","procesamiento de alimentos","sí","sí",2397.6,"pozo y río",682.5,475.12,74
+"Quito","farmacéutica","sí","no",NA,"río",757.1,830.24,73
+"Manta","procesamiento de alimentos","sí","sí",2296.2,"red municipal",978.8,804.77,84
+"Ambato","farmacéutica","sí","no",NA,"pozo",949.3,1035.42,90
+"Manta","textil","sí","sí",1846.15,"red municipal y pozo",751.6,649.71,81
+"Cuenca","farmacéutica","sí","no",NA,"red municipal y pozo",2121.23837416777,1962.25343128731,317
+"Quito","metalmecánica","sí","no",NA,"red municipal y pozo",879.6,888.68,90
+"Loja","procesamiento de alimentos","sí","no",NA,"pozo y río",800.4,902.81,81
+"Ambato","farmacéutica","sí","no",NA,"red municipal y río",845.3,796.02,91
+"Ambato","procesamiento de alimentos","sí","sí",2778.99,"red municipal y pozo y río",992.4,884.11,92
+"Ambato","metalmecánica","sí","sí",1486.95,"pozo y río",827.4,846.6,78
+"Manta","textil","no","sí",2447.13,"río",756.1,609.08,105
+"Quito","plásticos","sí","sí",783.04,"red municipal y río",906.2,801.22,85
+"Ambato","farmacéutica","sí","sí",2068.39,"red municipal",893.8,933.19,92
+"Quito","metalmecánica","sí","sí",1507.64,"red municipal y pozo",645.6,625.37,90
+"Loja","plásticos","sí","no",NA,"pozo y río",784.3,867.16,88
+"Cuenca","textil","sí","sí",1441.41,"red municipal",760.8,759.9,85
+"Loja","procesamiento de alimentos","sí","sí",1458.96,"pozo",903.6,928.77,81
+"Ambato","plásticos","no","no",NA,"red municipal",759.3,703.84,91
+"Guayaquil","plásticos","no","no",NA,"red municipal",738.5,493.93,66
+"Cuenca","metalmecánica","sí","sí",1011.49,"río",1066.4,925.49,98
+"Quito","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",1007.7,1108.03,70
+"Quito","metalmecánica","no","sí",925.56,"red municipal y pozo",672.9,744.06,79
+"Quito","química","no","sí",2199.84,"red municipal y río",711.1,639.05,71
+"Loja","textil","sí","sí",779.11,"red municipal",794.5,908.99,71
+"Loja","química","sí","sí",1627.96,"red municipal",841.4,788.81,73
+"Manta","textil","no","sí",4393.22298891423,"red municipal",2155.86614933051,1737.93725788301,284
+"Manta","farmacéutica","sí","sí",1263.47,"red municipal",824.6,779.93,101
+"Manta","procesamiento de alimentos","sí","sí",1551.35,"red municipal",764.4,577.18,78
+"Guayaquil","química","sí","sí",1008.53,"red municipal",984.4,698.36,79
+"Ambato","plásticos","sí","sí",2242.3,"pozo",743.6,840.62,78
+"Ambato","textil","sí","no",NA,"red municipal y pozo y río",1001.6,1049.59,77
+"Cuenca","textil","sí","sí",72.8,"red municipal y pozo y río",954.3,1087.04,92
+"Guayaquil","plásticos","sí","no",NA,"red municipal y pozo",722.3,662.33,85
+"Guayaquil","farmacéutica","sí","sí",2120.65,"red municipal y pozo",1193.2,1099.38,82
+"Cuenca","farmacéutica","sí","sí",1593.4,"red municipal",856.7,882.42,90
+"Quito","plásticos","sí","sí",1911.29,"río",786.2,861.03,63
+"Ambato","procesamiento de alimentos","sí","sí",1322.99,"pozo",884.8,786.62,88
+"Cuenca","textil","sí","sí",1200.21,"red municipal",822.5,935.37,88
+"Ambato","farmacéutica","no","no",NA,"red municipal y pozo",621.5,582.53,70
+"Ambato","textil","sí","sí",1451.35,"red municipal",800.5,680.95,90
+"Ambato","farmacéutica","no","no",NA,"red municipal y pozo",757.1,658.05,90
+"Ambato","procesamiento de alimentos","sí","sí",791.28,"río",653.3,734.56,69
+"Ambato","farmacéutica","sí","no",NA,"río",812.3,743.47,87
+"Manta","textil","sí","no",NA,"red municipal y pozo",970.3,815.74,94
+"Loja","plásticos","no","sí",1955.18,"red municipal y río",777.2,807.02,91
+"Loja","farmacéutica","sí","sí",672.52,"red municipal y pozo",773.2,882,100
+"Cuenca","procesamiento de alimentos","sí","sí",1147.07,"red municipal y río",838.7,881.23,79
+"Quito","procesamiento de alimentos","sí","sí",1180.09,"río",768.2,706.18,74
+"Loja","procesamiento de alimentos","sí","sí",2303.05,"red municipal y pozo",816.9,822.17,80
+"Guayaquil","textil","sí","no",NA,"río",781,639.24,91
+"Cuenca","textil","sí","no",NA,"red municipal y pozo y río",1500.52829878831,1475.55562444851,360
+"Ambato","plásticos","sí","no",NA,"río",882.1,868.62,82
+"Cuenca","plásticos","sí","sí",1215.77,"red municipal",915,842.21,87
+"Ambato","química","sí","no",NA,"red municipal y pozo",782.1,718.74,82
+"Guayaquil","plásticos","sí","no",NA,"red municipal y río",977.2,694.93,102
+"Loja","textil","sí","sí",1210.71,"pozo y río",689.7,688.91,81
+"Guayaquil","química","no","sí",1148.1,"pozo y río",761.7,712.01,79
+"Cuenca","farmacéutica","sí","sí",1600.31,"red municipal y pozo",865.7,829.83,91
+"Cuenca","química","sí","sí",1284.98,"pozo y río",782.3,832.77,94
+"Guayaquil","plásticos","no","no",NA,"pozo y río",865.7,659.72,98
+"Quito","química","sí","sí",1253.36,"red municipal y pozo y río",870.3,997.37,69
+"Ambato","textil","sí","no",NA,"red municipal y pozo",846.3,726.37,90
+"Ambato","metalmecánica","sí","no",NA,"red municipal y río",668.9,695.27,75
+"Loja","procesamiento de alimentos","no","sí",1889.38,"red municipal",565.3,641.27,92
+"Ambato","química","sí","sí",1598.07,"red municipal y pozo y río",1164,1281.86,84
+"Guayaquil","metalmecánica","sí","sí",705.45,"pozo",682.3,531.78,85
+"Guayaquil","química","sí","sí",1295.16,"río",785.7,609.83,83
+"Ambato","procesamiento de alimentos","sí","no",NA,"río",818.1,703.02,80
+"Quito","química","sí","sí",2004.57,"pozo y río",1042.7,935.03,74
+"Ambato","textil","sí","sí",1503.31,"red municipal y pozo",743,747.23,85
+"Guayaquil","química","sí","sí",1248.66,"red municipal y río",714.3,494.06,87
+"Manta","farmacéutica","sí","no",NA,"pozo",714.2,507.4,82
+"Ambato","química","no","sí",1172.85,"red municipal",719.7,683.92,89
+"Loja","farmacéutica","sí","sí",1840.89,"pozo y río",1051.1,1113.05,95
+"Loja","farmacéutica","no","no",NA,"red municipal y pozo",779.9,843.58,73
+"Guayaquil","procesamiento de alimentos","no","sí",1463.55,"red municipal y pozo y río",583.7,470.61,88
+"Ambato","textil","sí","sí",1455.35,"red municipal",785.1,671.39,107
+"Ambato","química","no","no",NA,"pozo",594.7,623.42,75
+"Loja","farmacéutica","no","no",NA,"red municipal",815.4,921.17,73
+"Quito","plásticos","sí","sí",1501.87,"pozo y río",921.7,893.12,88
+"Cuenca","farmacéutica","no","no",NA,"red municipal",792.8,681.87,78
+"Quito","farmacéutica","sí","sí",2404.96,"red municipal",807.9,862.05,73
+"Cuenca","química","sí","no",NA,"red municipal",957.4,965.9,92
+"Guayaquil","textil","sí","sí",1892.32,"red municipal y pozo",1104.6,859.78,115
+"Ambato","plásticos","sí","no",NA,"red municipal y pozo",955.4,1077.58,95
+"Quito","farmacéutica","sí","sí",906.76,"red municipal y pozo",961.3,843.94,83
+"Cuenca","química","sí","sí",471.77,"red municipal",779.6,831.75,77
+"Cuenca","textil","no","sí",1842.81,"red municipal y río",853.2,810.64,84
+"Ambato","procesamiento de alimentos","no","sí",805.48,"pozo",728.4,638.25,81
+"Cuenca","química","sí","no",NA,"red municipal",986.6,1110.49,85
+"Manta","metalmecánica","sí","sí",894.57,"red municipal",945.2,844.16,105
+"Quito","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",870.2,896.97,93
+"Manta","procesamiento de alimentos","sí","no",NA,"pozo y río",629.6,494.58,79
+"Manta","farmacéutica","no","sí",1750.96,"río",749.1,644.21,66
+"Ambato","química","no","no",NA,"red municipal",825.6,745.88,78
+"Cuenca","química","sí","no",NA,"río",885.2,791.46,66
+"Cuenca","química","sí","sí",1908.69,"red municipal y río",703.9,720.95,92
+"Cuenca","farmacéutica","no","sí",2384.06,"río",514.5,556.98,84
+"Manta","farmacéutica","no","no",NA,"río",722.5,478.14,85
+"Guayaquil","procesamiento de alimentos","sí","sí",1336.39,"red municipal y río",735.4,562.15,89
+"Quito","procesamiento de alimentos","sí","no",NA,"pozo",745.5,795.28,84
+"Guayaquil","textil","sí","sí",450.78,"red municipal y pozo",948.3,751.11,79
+"Quito","química","sí","sí",791.94,"red municipal",861.9,934.82,91
+"Loja","química","sí","sí",3818.23020980146,"red municipal",2623.20541923004,2705.08605432038,306
+"Loja","textil","sí","no",NA,"red municipal",847.6,736.43,83
+"Quito","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",802.1,821.06,99
+"Loja","plásticos","sí","no",NA,"red municipal y río",2364.84573331848,2227.54029498487,242
+"Loja","procesamiento de alimentos","sí","no",NA,"pozo",698.2,777.46,84
+"Loja","procesamiento de alimentos","sí","sí",522.58,"pozo",840.2,887.3,106
+"Cuenca","textil","no","sí",1413.01,"red municipal y pozo",779.3,750.28,100
+"Quito","química","sí","no",NA,"red municipal y pozo",731.5,809.34,86
+"Ambato","química","sí","sí",1682.16,"río",846.2,941.98,73
+"Cuenca","textil","sí","sí",1511,"pozo",1067.4,1123.72,92
+"Quito","farmacéutica","sí","sí",1133.95,"red municipal y río",924.6,821.12,72
+"Loja","química","no","sí",2284.63,"red municipal",687.8,711.44,83
+"Quito","metalmecánica","sí","sí",1085.74,"red municipal",802.4,781.75,96
+"Manta","textil","sí","no",NA,"red municipal y pozo",863.8,641.11,90
+"Loja","química","sí","sí",1147.34,"red municipal y pozo y río",747.3,722.14,98
+"Guayaquil","química","sí","sí",1278.84,"red municipal y pozo y río",792.4,573.95,92
+"Cuenca","metalmecánica","no","sí",929.21,"red municipal y pozo",619.8,623.87,104
+"Cuenca","textil","sí","no",NA,"red municipal",941.3,1079.76,85
+"Quito","química","no","sí",1845.72,"red municipal y pozo y río",635.6,597.62,96
+"Quito","plásticos","sí","no",NA,"red municipal",518.5,560.5,87
+"Loja","procesamiento de alimentos","sí","no",NA,"red municipal",812.1,726.7,71
+"Quito","textil","sí","sí",1539.96,"pozo y río",867.8,870.25,83
+"Loja","procesamiento de alimentos","sí","no",NA,"río",1041.6,890.36,90
+"Ambato","procesamiento de alimentos","no","no",NA,"red municipal",801.9,788.88,94
+"Guayaquil","metalmecánica","no","sí",1418.11,"red municipal y pozo y río",687.9,488.61,81
+"Loja","plásticos","sí","no",NA,"pozo y río",838.1,928.09,77
+"Cuenca","plásticos","sí","sí",2066.9,"red municipal",642.5,612.72,66
+"Quito","textil","sí","no",NA,"red municipal y pozo y río",729.8,804.87,74
+"Loja","procesamiento de alimentos","sí","no",NA,"río",839,761.43,95
+"Cuenca","procesamiento de alimentos","no","no",NA,"red municipal",424,373.65,76
+"Loja","química","sí","no",NA,"red municipal y pozo",847.5,790.19,81
+"Guayaquil","textil","no","sí",1071.35,"red municipal y río",997.2,697.23,94
+"Quito","textil","sí","no",NA,"red municipal y río",655.3,638.46,74
+"Quito","plásticos","sí","sí",1781.13,"red municipal y pozo",828.6,743.59,95
+"Quito","textil","sí","sí",2556.64180084459,"red municipal",2754.56662854552,2405.82099324116,383
+"Cuenca","metalmecánica","no","sí",1292.17,"pozo",640.5,607.18,84
+"Cuenca","química","sí","no",NA,"red municipal",931.5,1004.16,93
+"Loja","procesamiento de alimentos","sí","sí",1181.06,"red municipal",790.7,726.7,88
+"Loja","metalmecánica","sí","sí",1463.52,"río",914.4,884.36,87
+"Guayaquil","textil","sí","no",NA,"red municipal y río",730.5,656.55,95
+"Manta","farmacéutica","sí","sí",1800,"pozo",805.1,739.87,84
+"Cuenca","plásticos","sí","no",NA,"red municipal y pozo",845.2,751.27,78
+"Quito","textil","sí","no",NA,"red municipal",1016.4,1107.69,85
+"Quito","farmacéutica","no","sí",2015.53,"pozo y río",691.2,657.58,92
+"Guayaquil","plásticos","sí","sí",1152.75,"red municipal y río",916.5,723.72,90
+"Ambato","metalmecánica","no","no",NA,"pozo y río",800.9,776.78,83
+"Cuenca","farmacéutica","sí","sí",2079.71,"red municipal y pozo",586.7,663.29,66
+"Ambato","farmacéutica","sí","no",NA,"red municipal y río",1016.1,1061.9,81
+"Manta","metalmecánica","sí","sí",1658.19,"red municipal y pozo",866.7,710.54,83
+"Guayaquil","metalmecánica","sí","sí",1233.99,"red municipal y río",963.4,646.13,92
+"Ambato","procesamiento de alimentos","sí","sí",1786.68,"pozo y río",818.6,874.38,103
+"Cuenca","química","sí","sí",1912.29,"río",1106.9,1220.05,79
+"Loja","farmacéutica","sí","sí",2282.31,"red municipal",956.1,1075.34,77
+"Guayaquil","plásticos","no","no",NA,"red municipal",692.8,622.86,66
+"Cuenca","farmacéutica","sí","no",NA,"pozo",743.4,806.82,98
+"Quito","plásticos","no","sí",1869.71,"red municipal y pozo",739.1,662.38,88
+"Loja","plásticos","sí","sí",1645.09,"pozo",890,984.57,90
+"Ambato","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",823.2,860.93,98
+"Quito","textil","sí","no",NA,"red municipal y río",993,866.68,92
+"Cuenca","textil","sí","sí",1488.31,"red municipal y pozo",760.8,744.18,79
+"Guayaquil","procesamiento de alimentos","no","sí",1039.47,"red municipal y pozo",761.6,619.3,88
+"Quito","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",1001.7,952.27,88
+"Ambato","plásticos","sí","sí",2200.39,"red municipal",849.4,911.75,89
+"Cuenca","textil","sí","no",NA,"red municipal",937.5,1027.51,82
+"Loja","química","sí","sí",1292.14,"red municipal y pozo",939.5,1078.86,87
+"Quito","textil","sí","no",NA,"red municipal",898.1,982.74,71
+"Ambato","farmacéutica","sí","no",NA,"red municipal y pozo",1004,1104.64,89
+"Guayaquil","textil","sí","sí",1650.85,"red municipal y pozo",752.6,556.18,93
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"río",2061.2552078811,1309.25749688566,250
+"Quito","química","sí","no",NA,"red municipal",849.5,889.01,85
+"Cuenca","plásticos","sí","no",NA,"pozo",1041.8,1038.28,95
+"Quito","farmacéutica","sí","sí",1645.09,"red municipal",784,846.25,93
+"Quito","metalmecánica","sí","sí",875.41,"río",656.7,748.73,72
+"Manta","farmacéutica","sí","no",NA,"pozo",737.4,591.94,85
+"Cuenca","textil","sí","sí",2067.42,"pozo y río",917.5,936.14,90
+"Loja","farmacéutica","sí","no",NA,"red municipal y río",911.4,920.84,97
+"Quito","textil","sí","sí",1778.73,"red municipal",835.1,904.17,87
+"Quito","procesamiento de alimentos","sí","sí",1003.28,"red municipal",816.4,828.57,82
+"Loja","plásticos","no","sí",1144.45,"pozo y río",679.6,714.57,102
+"Quito","metalmecánica","sí","no",NA,"red municipal y río",2298.27813418284,1793.63558299432,231
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",700.4,572.16,104
+"Quito","procesamiento de alimentos","sí","sí",1557.04,"red municipal y pozo y río",795.2,790.85,72
+"Manta","farmacéutica","no","sí",1582.48,"pozo",784.3,616.28,92
+"Loja","metalmecánica","sí","no",NA,"río",936.6,815.85,86
+"Ambato","textil","sí","no",NA,"pozo",700.2,707.14,74
+"Quito","textil","no","sí",1778.03,"red municipal y pozo",722.9,733.76,93
+"Cuenca","procesamiento de alimentos","sí","sí",1993.52,"red municipal",556.5,571.74,93
+"Ambato","plásticos","sí","no",NA,"red municipal",878.5,966.01,87
+"Ambato","metalmecánica","sí","no",NA,"red municipal y pozo",747.5,674.71,89
+"Manta","procesamiento de alimentos","sí","no",NA,"río",951.5,743.58,103
+"Cuenca","química","no","sí",1347.6,"red municipal",852,743.33,73
+"Manta","plásticos","sí","no",NA,"red municipal",603.2,417.09,85
+"Guayaquil","farmacéutica","sí","sí",1230.54,"red municipal y río",1054,688.62,88
+"Quito","procesamiento de alimentos","sí","sí",959.44,"red municipal",814.5,741.13,85
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"red municipal",845.1,746.7,91
+"Ambato","procesamiento de alimentos","sí","sí",1552.56,"red municipal y río",776.5,879.84,101
+"Guayaquil","farmacéutica","no","sí",1339.01,"red municipal y pozo",758.6,634.08,96
+"Loja","farmacéutica","no","sí",1958.4,"río",620.4,573.31,103
+"Ambato","farmacéutica","sí","sí",1824,"red municipal y pozo",979.8,900.57,93
+"Manta","metalmecánica","sí","sí",975.75,"río",752,579.91,79
+"Cuenca","procesamiento de alimentos","no","no",NA,"río",887.7,956.58,91
+"Ambato","química","sí","sí",1221.83,"río",978.7,856.23,76
+"Quito","textil","sí","no",NA,"red municipal",875.2,906.13,91
+"Loja","procesamiento de alimentos","sí","sí",2152.59,"pozo",723.3,780.7,84
+"Guayaquil","farmacéutica","sí","sí",1922.28,"pozo",979.7,820.6,82
+"Loja","procesamiento de alimentos","sí","sí",783.63,"río",861,975.42,70
+"Quito","procesamiento de alimentos","sí","no",NA,"pozo y río",971.9,919.51,102
+"Cuenca","textil","sí","sí",1495.42,"red municipal",917.7,845.47,81
+"Quito","procesamiento de alimentos","sí","no",NA,"red municipal y río",912.5,832.37,86
+"Ambato","textil","sí","sí",967.85,"red municipal",983.3,1077.16,88
+"Quito","plásticos","sí","sí",1770.75,"red municipal y pozo",830.5,918.86,87
+"Guayaquil","plásticos","sí","sí",1552.4,"río",854.2,655.32,77
+"Cuenca","farmacéutica","sí","sí",976.22,"red municipal",672.4,771.62,73
+"Cuenca","textil","no","sí",2079.06,"pozo y río",574.4,558.47,90
+"Cuenca","metalmecánica","sí","no",NA,"pozo",829.3,938.23,86
+"Ambato","metalmecánica","sí","sí",1705.34,"red municipal",606,618.08,85
+"Guayaquil","procesamiento de alimentos","sí","sí",1797.78,"red municipal y pozo",730.2,541.88,78
+"Quito","farmacéutica","no","sí",1453.7,"red municipal y río",626.3,603.54,75
+"Manta","química","sí","sí",2454.35521926839,"pozo y río",1877.47567090045,1413.11558085045,187
+"Ambato","química","sí","sí",1145.37,"pozo",874.7,884.77,83
+"Guayaquil","química","sí","no",NA,"red municipal",843.3,708.02,88
+"Loja","textil","sí","sí",1767.44,"pozo",770.9,659.01,81
+"Quito","farmacéutica","sí","no",NA,"red municipal",832.6,779.14,77
+"Guayaquil","textil","sí","sí",983.19,"red municipal y pozo",857.6,758.28,87
+"Ambato","textil","no","sí",1717.9,"río",600.3,587.15,89
+"Manta","farmacéutica","no","sí",1205.23,"pozo y río",518.5,338.41,101
+"Loja","química","no","sí",1462.38,"red municipal",633.6,645.11,97
+"Quito","química","no","no",NA,"red municipal y pozo",657.5,563.98,83
+"Quito","plásticos","sí","no",NA,"red municipal y pozo",1005.5,933.85,91
+"Loja","metalmecánica","sí","no",NA,"río",956.1,958.61,77
+"Manta","química","sí","no",NA,"río",940.4,697.48,86
+"Loja","farmacéutica","sí","sí",1144.53,"red municipal y pozo y río",787.6,737.2,84
+"Loja","farmacéutica","sí","no",NA,"río",906.6,955.74,91
+"Manta","procesamiento de alimentos","sí","no",NA,"pozo y río",655.1,566.71,101
+"Loja","metalmecánica","sí","sí",1391.06,"pozo y río",965.1,1029.82,95
+"Ambato","plásticos","sí","no",NA,"red municipal y río",947.6,1045.5,98
+"Loja","plásticos","sí","no",NA,"red municipal",595.5,515.47,88
+"Quito","plásticos","sí","no",NA,"red municipal",880.6,982.72,72
+"Loja","metalmecánica","sí","sí",2064.72,"pozo y río",784.6,728.75,89
+"Ambato","textil","sí","sí",2338.28,"red municipal y pozo",674.8,767.63,69
+"Guayaquil","textil","sí","sí",1188.05,"red municipal",835,745.31,76
+"Loja","procesamiento de alimentos","sí","sí",2226.53,"red municipal y río",954.5,838.37,105
+"Loja","metalmecánica","sí","sí",1925.24,"red municipal",595.3,630.01,65
+"Ambato","plásticos","sí","no",NA,"red municipal",864.5,768.65,74
+"Guayaquil","textil","sí","sí",1257.75,"río",896.9,749.35,84
+"Cuenca","química","sí","sí",1937.82,"red municipal y pozo",983.6,1091.35,88
+"Cuenca","química","sí","sí",1068.69,"red municipal",986.5,1042.27,79
+"Quito","plásticos","sí","sí",1700.65,"red municipal y río",821,710.49,82
+"Quito","química","sí","no",NA,"pozo",770.1,779.22,87
+"Quito","procesamiento de alimentos","no","sí",504.71,"pozo",702.8,675.51,93
+"Cuenca","textil","sí","sí",890,"pozo",573.3,612.8,89
+"Cuenca","plásticos","sí","sí",748.38,"red municipal",885,893.47,85
+"Ambato","metalmecánica","sí","no",NA,"red municipal y pozo",856,854.22,96
+"Loja","procesamiento de alimentos","sí","sí",1733.77,"red municipal y río",847.9,869.41,74
+"Quito","farmacéutica","sí","sí",1167.24,"pozo",806.1,917.25,74
+"Ambato","química","sí","sí",1224.74,"red municipal y pozo",607.5,532.21,79
+"Loja","farmacéutica","sí","sí",1768.52,"red municipal y río",1031.7,1082.3,83
+"Ambato","plásticos","sí","sí",2161.59,"pozo",1008.3,1135.97,90
+"Manta","química","sí","no",NA,"red municipal y pozo",924.5,612.92,97
+"Quito","farmacéutica","sí","no",NA,"red municipal y pozo",998.2,909.59,100
+"Quito","farmacéutica","sí","sí",1439.45,"red municipal y pozo",716.4,626.25,92
+"Ambato","farmacéutica","sí","no",NA,"red municipal y río",949.3,906.57,96
+"Manta","metalmecánica","sí","sí",765.32,"red municipal",853.8,642.47,95
+"Loja","farmacéutica","sí","sí",1837.81,"pozo",725.4,753.08,82
+"Quito","textil","sí","sí",1268.31,"red municipal y pozo",854.6,974.27,104
+"Quito","química","no","sí",1325.97,"red municipal y pozo y río",901.4,935.4,92
+"Loja","plásticos","sí","sí",1680.62,"red municipal y pozo",826.2,803.02,76
+"Ambato","metalmecánica","sí","no",NA,"pozo",769.8,706.77,77
+"Ambato","textil","sí","no",NA,"red municipal y pozo",822.8,931.72,94
+"Cuenca","metalmecánica","sí","sí",2109.77,"pozo",697.9,683.89,81
+"Quito","farmacéutica","no","sí",627.83,"pozo y río",540.8,511.59,85
+"Manta","farmacéutica","sí","sí",1438.07,"río",1031.3,734.88,76
+"Manta","plásticos","sí","no",NA,"red municipal",902,819.24,88
+"Ambato","procesamiento de alimentos","sí","no",NA,"pozo",689.5,612.54,89
+"Loja","farmacéutica","sí","no",NA,"red municipal",939.1,832.11,105
+"Ambato","procesamiento de alimentos","sí","sí",1790.23,"red municipal y pozo y río",866.5,983.07,75
+"Cuenca","plásticos","no","sí",1552.87,"red municipal y pozo y río",529,452.63,72
+"Ambato","metalmecánica","sí","sí",364.84,"pozo y río",847.5,753.2,74
+"Quito","química","sí","no",NA,"red municipal",926.7,861.57,103
+"Quito","metalmecánica","sí","no",NA,"río",884.3,827.3,84
+"Loja","textil","sí","no",NA,"pozo y río",797.6,735.61,76
+"Manta","plásticos","sí","sí",2126.59,"red municipal",951.6,846.64,77
+"Guayaquil","farmacéutica","sí","no",NA,"red municipal",952,643.68,83
+"Ambato","química","sí","sí",806.98,"red municipal y pozo",769.4,753.01,76
+"Cuenca","procesamiento de alimentos","sí","sí",1447.32,"río",730.8,765.08,108
+"Manta","procesamiento de alimentos","sí","sí",1527.65,"red municipal y pozo",848.6,555.72,75
+"Guayaquil","plásticos","sí","sí",2411.84,"red municipal y pozo",1012.9,842.12,74
+"Manta","procesamiento de alimentos","sí","no",NA,"pozo y río",863.7,638.69,94
+"Quito","farmacéutica","sí","sí",1837.06,"red municipal",1013.9,969.9,99
+"Quito","química","no","sí",2175.94,"red municipal",680.3,712.72,65
+"Loja","química","sí","no",NA,"red municipal y río",983.4,885.36,82
+"Manta","farmacéutica","no","sí",1324.3,"red municipal y río",500.2,391.29,88
+"Manta","química","sí","sí",1738.35,"red municipal",1115.9,923.05,83
+"Manta","farmacéutica","sí","no",NA,"río",543.7,496.05,61
+"Manta","plásticos","no","no",NA,"pozo",333.6,294.78,90
+"Manta","procesamiento de alimentos","sí","no",NA,"pozo",1034.2,757.16,84
+"Ambato","metalmecánica","sí","no",NA,"red municipal",910.4,805.18,82
+"Loja","farmacéutica","no","sí",1033.57,"red municipal",754.2,748.27,73
+"Loja","farmacéutica","sí","sí",1136.95,"red municipal y pozo",835.1,890.12,72
+"Quito","plásticos","sí","no",NA,"río",986.6,913.99,100
+"Quito","procesamiento de alimentos","sí","sí",1004.25,"red municipal y pozo",781.1,864.18,76
+"Loja","procesamiento de alimentos","no","no",NA,"red municipal",1422.23056828533,1146.66642275475,266
+"Manta","farmacéutica","no","no",NA,"red municipal y pozo",733.6,487.05,86
+"Loja","química","sí","sí",1573.42,"red municipal y pozo",1107,1056.8,91
+"Ambato","farmacéutica","sí","no",NA,"pozo y río",733.1,721.79,93
+"Guayaquil","química","sí","no",NA,"red municipal",972.8,864.86,93
+"Guayaquil","farmacéutica","no","no",NA,"pozo y río",710.3,545.72,84
+"Quito","plásticos","sí","no",NA,"red municipal",905,775.73,69
+"Guayaquil","farmacéutica","sí","no",NA,"red municipal y pozo",771.9,636.03,78
+"Loja","plásticos","no","sí",1669.64,"red municipal y pozo",610.3,606.6,86
+"Ambato","procesamiento de alimentos","sí","sí",2089.31,"red municipal",787.5,838.87,83
+"Quito","textil","sí","no",NA,"red municipal",888.4,865.27,86
+"Quito","metalmecánica","sí","no",NA,"red municipal",763.8,714.82,82
+"Guayaquil","procesamiento de alimentos","sí","sí",1371.5,"río",764.4,549.62,83
+"Manta","plásticos","sí","sí",1981.44,"pozo",890.2,674.74,81
+"Quito","química","no","sí",2098.02,"río",733.5,745.11,75
+"Loja","textil","sí","no",NA,"pozo",799.9,681.13,75
+"Quito","procesamiento de alimentos","sí","sí",1708.23,"red municipal",688.6,712.23,100
+"Quito","textil","sí","sí",1830.62,"pozo y río",928.1,905.71,91
+"Quito","textil","sí","sí",1042.02,"red municipal y pozo",808.8,911.49,90
+"Manta","química","no","no",NA,"río",694.6,601.38,76
+"Guayaquil","farmacéutica","sí","sí",1006.75,"red municipal",888,608.83,65
+"Loja","plásticos","sí","sí",1408.13,"red municipal y pozo",832.4,740.61,76
+"Cuenca","farmacéutica","sí","sí",914.69,"río",595.3,542.44,69
+"Manta","plásticos","sí","sí",714.23,"red municipal",1020.8,778.62,85
+"Loja","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",886.6,808.27,85
+"Loja","metalmecánica","sí","sí",1104.75,"red municipal y pozo y río",1156.3,1141.59,87
+"Ambato","farmacéutica","sí","no",NA,"red municipal y pozo",785.4,678.54,67
+"Guayaquil","textil","sí","no",NA,"pozo y río",707.1,668.12,77
+"Quito","farmacéutica","sí","sí",1129.09,"red municipal",971.8,1040.85,71
+"Cuenca","metalmecánica","sí","sí",1347.72,"pozo",811.7,850.37,95
+"Manta","metalmecánica","sí","sí",841.17,"red municipal y río",825.7,740.04,81
+"Loja","textil","sí","sí",1996.45,"red municipal",641.2,704.86,80
+"Ambato","procesamiento de alimentos","sí","sí",1118.49,"red municipal y pozo",770.3,816.06,88
+"Loja","farmacéutica","sí","no",NA,"red municipal y pozo",789.5,808.35,86
+"Loja","procesamiento de alimentos","sí","sí",264.75,"pozo y río",789.5,825.89,69
+"Guayaquil","textil","no","sí",1484.89,"pozo",709.3,571.4,110
+"Quito","química","sí","sí",1064.53,"red municipal",875.9,865.42,74
+"Quito","química","sí","sí",1936.18,"red municipal y pozo",878.6,1007.05,85
+"Quito","farmacéutica","sí","no",NA,"pozo y río",946.2,920.3,84
+"Loja","farmacéutica","sí","sí",1089.16,"red municipal",712.1,807.58,74
+"Quito","farmacéutica","sí","no",NA,"pozo y río",828.2,706.3,78
+"Cuenca","metalmecánica","sí","sí",1130.41,"río",825.7,711.53,80
+"Ambato","procesamiento de alimentos","sí","no",NA,"río",916,859.04,97
+"Ambato","farmacéutica","no","sí",1938.33,"río",768.8,708.33,96
+"Guayaquil","textil","no","no",NA,"red municipal",658.4,592.17,68
+"Manta","química","sí","sí",1204.47,"red municipal y pozo",885.2,812.1,94
+"Manta","textil","no","sí",1692.33,"red municipal y pozo",923.3,651.63,76
+"Guayaquil","textil","sí","sí",1050.74,"red municipal",756.7,492.99,83
+"Guayaquil","textil","sí","sí",1466.76,"pozo y río",982.5,791.38,76
+"Cuenca","textil","sí","sí",494.15,"red municipal y pozo",872.1,952.25,71
+"Loja","plásticos","sí","no",NA,"red municipal y pozo",822.5,764.76,68
+"Quito","química","sí","sí",1277.71,"pozo",998.4,885.02,85
+"Quito","química","sí","sí",1628.67,"red municipal y pozo",910.6,946.22,81
+"Quito","textil","sí","sí",1631.6,"red municipal y pozo",859.7,885.84,83
+"Quito","metalmecánica","no","no",NA,"red municipal y pozo",490.5,474.56,95
+"Quito","procesamiento de alimentos","sí","no",NA,"red municipal y pozo y río",1016.7,959.59,84
+"Manta","metalmecánica","sí","no",NA,"red municipal",964.4,866.92,93
+"Quito","química","sí","sí",1839.82,"red municipal",1008.3,1059.69,74
+"Cuenca","procesamiento de alimentos","no","sí",491.72,"pozo",548.2,584.04,79
+"Manta","farmacéutica","sí","sí",917.35,"red municipal y pozo",1144.7,744.27,81
+"Ambato","textil","sí","sí",3632.15570111489,"red municipal",1991.66794502391,2096.93571863627,360
+"Manta","procesamiento de alimentos","sí","sí",1427.15,"red municipal y pozo",802.6,567.7,88
+"Manta","procesamiento de alimentos","sí","no",NA,"red municipal",1072.5,863.27,84
+"Guayaquil","plásticos","sí","sí",1392.16,"red municipal y pozo y río",960.7,900.93,86
+"Loja","farmacéutica","sí","no",NA,"red municipal y pozo",808.1,868.73,82
+"Guayaquil","plásticos","sí","sí",960.01,"pozo",797.8,596.79,65
+"Quito","plásticos","sí","sí",5075.4311021869,"red municipal y pozo y río",1673.68141018588,1560.91251500195,320
+"Guayaquil","química","sí","sí",1235.48,"red municipal",942.7,628.67,91
+"Quito","metalmecánica","sí","no",NA,"red municipal",827.8,804.63,66
+"Guayaquil","farmacéutica","sí","no",NA,"red municipal",659.1,518.7,77
+"Manta","química","sí","no",NA,"pozo",983.1,676.14,91
+"Ambato","metalmecánica","sí","sí",1845.86,"red municipal",725,743.7,79
+"Manta","farmacéutica","no","sí",2891.71,"río",746.3,672.7,111
+"Ambato","plásticos","no","sí",1238.47,"red municipal y pozo",900.7,836.94,98
+"Loja","procesamiento de alimentos","no","no",NA,"red municipal",2270.0485104216,2263.74878701975,343
+"Manta","textil","sí","sí",1632.31,"red municipal",926.4,700.46,61
+"Ambato","química","sí","sí",1087.89,"red municipal y pozo",1012.4,1002.78,93
+"Quito","plásticos","sí","no",NA,"red municipal",829.6,841.48,74
+"Guayaquil","farmacéutica","no","sí",1469.07,"red municipal",897.7,658.51,108
+"Quito","metalmecánica","no","sí",1722.98,"río",415.9,387.32,88
+"Manta","química","sí","sí",1920.83,"red municipal",632,492.99,83
+"Cuenca","metalmecánica","no","sí",1264.32,"red municipal y pozo",600.4,541.7,98
+"Quito","plásticos","no","sí",1702.49,"red municipal y río",570.3,548.29,85
+"Loja","química","sí","sí",1997.84,"pozo",891.7,893.87,81
+"Quito","plásticos","sí","sí",1368.98,"red municipal y río",778.5,841.84,77
+"Guayaquil","farmacéutica","sí","sí",1229.17,"red municipal y pozo",838.5,684.03,91
+"Loja","metalmecánica","sí","sí",995.28,"red municipal",923.8,848.55,89
+"Guayaquil","textil","sí","no",NA,"río",818.9,594.35,84
+"Ambato","química","sí","no",NA,"red municipal",918.4,941.68,88
+"Cuenca","textil","sí","no",NA,"red municipal y pozo",706.3,737.21,95
+"Cuenca","procesamiento de alimentos","sí","no",NA,"río",1030.3,1128.48,84
+"Ambato","química","no","sí",1463.58,"pozo",493.8,442.07,76
+"Quito","plásticos","sí","sí",1563.67,"río",929.2,992.96,79
+"Loja","farmacéutica","sí","sí",2563.51,"red municipal y pozo",1039,1176.39,81
+"Ambato","textil","sí","no",NA,"pozo y río",977.2,840.75,77
+"Quito","procesamiento de alimentos","no","no",NA,"río",766.2,719.19,84
+"Ambato","textil","no","sí",1926.19,"red municipal y pozo",472.1,412.55,72
+"Manta","plásticos","sí","no",NA,"pozo",1034.3,708.93,82
+"Guayaquil","química","sí","sí",910.9,"red municipal y pozo",771.4,730.2,79
+"Quito","farmacéutica","no","sí",1712.26,"red municipal y pozo",576.1,576.88,70
+"Loja","farmacéutica","sí","no",NA,"red municipal",832.7,817.01,81
+"Manta","textil","sí","no",NA,"red municipal y pozo y río",770.3,562.6,79
+"Ambato","procesamiento de alimentos","sí","sí",1717.31,"red municipal y pozo",672.9,598.06,81
+"Ambato","procesamiento de alimentos","sí","sí",2220.39,"red municipal",452.6,483.49,75
+"Manta","procesamiento de alimentos","sí","sí",1990.12,"red municipal y río",1027.2,890.66,77
+"Loja","química","sí","no",NA,"red municipal",587.2,652.18,79
+"Loja","procesamiento de alimentos","sí","sí",1252.56,"red municipal",931.7,933.93,82
+"Manta","metalmecánica","sí","sí",1688.36,"red municipal y pozo",961.1,765.07,92
+"Guayaquil","metalmecánica","sí","sí",1736.85,"red municipal y pozo y río",910.6,645.38,85
+"Quito","procesamiento de alimentos","sí","no",NA,"pozo",811.4,867.14,85
+"Manta","procesamiento de alimentos","sí","no",NA,"red municipal y río",892.9,762.29,87
+"Loja","farmacéutica","sí","sí",2172.13,"pozo",687.9,749.17,87
+"Loja","plásticos","no","no",NA,"red municipal y pozo",704.3,600.73,86
+"Ambato","metalmecánica","sí","sí",1227.13,"red municipal y pozo",863.5,941.09,86
+"Manta","química","sí","no",NA,"pozo",999.3,722.75,91
+"Loja","química","sí","sí",1605.01,"red municipal",649.5,722.28,77
+"Loja","procesamiento de alimentos","no","no",NA,"río",717.3,709.49,69
+"Manta","metalmecánica","sí","no",NA,"pozo",823,696.54,87
+"Loja","farmacéutica","sí","no",NA,"pozo y río",1038.1,1103.01,99
+"Cuenca","plásticos","sí","sí",1092.47,"red municipal",835.1,921.2,80
+"Guayaquil","química","sí","no",NA,"red municipal y río",810.3,690.68,74
+"Cuenca","química","sí","sí",1302.02,"red municipal",1032.8,1108.33,83
+"Guayaquil","plásticos","sí","sí",583.39,"pozo",859.1,684.3,87
+"Loja","procesamiento de alimentos","no","sí",1707.61,"red municipal",752,642.85,78
+"Loja","farmacéutica","sí","sí",952.17,"pozo y río",991.7,865.52,91
+"Ambato","farmacéutica","no","sí",1856.54,"pozo y río",709.2,684.81,75
+"Quito","metalmecánica","sí","no",NA,"río",866.2,955.2,84
+"Cuenca","textil","no","sí",1585.57,"red municipal y pozo y río",641.6,663.01,79
+"Quito","plásticos","sí","no",NA,"pozo y río",662.7,615.79,97
+"Manta","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",899.8,637.78,68
+"Ambato","química","sí","sí",1619.76,"red municipal",876.6,893.42,79
+"Cuenca","metalmecánica","sí","sí",762.85,"pozo y río",733,794.45,88
+"Cuenca","metalmecánica","sí","no",NA,"red municipal y pozo",837.7,808.49,81
+"Manta","plásticos","sí","sí",2007.93,"red municipal",1078.8,711.77,89
+"Guayaquil","química","no","sí",972.17,"pozo",601.7,519.26,76
+"Ambato","química","sí","sí",2889.09381166545,"red municipal",1585.32336837184,1550.72922337373,245
+"Loja","metalmecánica","sí","no",NA,"pozo",749.3,736.81,100
+"Guayaquil","farmacéutica","no","sí",2420.76,"red municipal",708,591.09,93
+"Guayaquil","textil","sí","sí",1962.78,"red municipal",919.9,685.62,87
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",810.9,641.6,88
+"Guayaquil","farmacéutica","sí","no",NA,"red municipal y pozo",2439.59354698299,1952.00682345964,256
+"Cuenca","química","sí","no",NA,"pozo",901.4,814.11,76
+"Manta","farmacéutica","no","no",NA,"red municipal",838.7,760.27,102
+"Ambato","procesamiento de alimentos","sí","sí",2114.41,"pozo",945,839.23,81
+"Cuenca","química","sí","no",NA,"pozo y río",907.4,1024.9,86
+"Manta","farmacéutica","no","sí",977.76,"pozo",773.2,562.28,82
+"Manta","plásticos","sí","sí",1444.28,"río",792.9,722.48,88
+"Quito","farmacéutica","sí","sí",1822.33,"red municipal y pozo",661.4,606.14,93
+"Quito","farmacéutica","sí","sí",1510.38,"red municipal y pozo",1031.3,942.83,77
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"red municipal",852.3,752.57,93
+"Guayaquil","textil","sí","sí",1597.7,"pozo",1162.2,926.14,86
+"Guayaquil","química","sí","no",NA,"pozo",872.3,725.31,97
+"Ambato","plásticos","sí","sí",1007.56,"pozo y río",1058.8,937.57,83
+"Loja","metalmecánica","no","no",NA,"red municipal y pozo",534.3,552.99,76
+"Quito","farmacéutica","sí","sí",948.82,"río",840.1,851.28,79
+"Loja","textil","no","no",NA,"pozo",780.9,888.23,88
+"Quito","procesamiento de alimentos","sí","no",NA,"red municipal",854.3,788.06,81
+"Ambato","textil","sí","sí",1211.81,"red municipal y pozo",928.6,963.4,93
+"Guayaquil","metalmecánica","no","no",NA,"pozo y río",877.3,746.25,79
+"Ambato","procesamiento de alimentos","sí","sí",1683,"red municipal y pozo y río",658.3,623.56,80
+"Quito","farmacéutica","sí","sí",2282.11,"red municipal",753.4,756.82,78
+"Loja","química","sí","sí",868.29,"pozo",864.4,949.15,107
+"Loja","textil","sí","no",NA,"red municipal",992,980.64,87
+"Guayaquil","textil","sí","sí",1771.17,"red municipal y río",998.6,836.56,99
+"Ambato","farmacéutica","no","sí",835,"red municipal",731.9,811.59,86
+"Manta","textil","sí","sí",847.09,"pozo",896.4,620.13,79
+"Guayaquil","plásticos","sí","sí",1217.48,"pozo",717.3,592.69,81
+"Cuenca","plásticos","no","sí",1887.07,"red municipal y río",513.1,442.62,70
+"Cuenca","química","sí","no",NA,"red municipal y pozo y río",1163.7,1295.74,80
+"Cuenca","textil","sí","no",NA,"pozo y río",957.3,937.83,100
+"Quito","farmacéutica","sí","sí",1460.78,"red municipal y río",752.4,813.73,79
+"Quito","farmacéutica","no","sí",1824.36,"río",586.6,588.05,90
+"Manta","plásticos","sí","no",NA,"red municipal y pozo y río",808.7,605.46,93
+"Guayaquil","plásticos","sí","sí",1485.95,"red municipal y río",1076.2,922.36,92
+"Cuenca","metalmecánica","sí","sí",837.05,"red municipal y pozo",901.2,944.43,98
+"Cuenca","plásticos","sí","no",NA,"río",963.6,885.01,80
+"Cuenca","metalmecánica","no","sí",216.72,"río",720.1,765.77,86
+"Guayaquil","plásticos","sí","sí",1401.47,"red municipal y río",998.4,789.63,91
+"Manta","química","sí","sí",790.79,"pozo",874.6,664.09,91
+"Ambato","textil","sí","no",NA,"pozo",953.7,887.25,98
+"Ambato","metalmecánica","sí","sí",1829.33,"río",816.5,933.51,72
+"Loja","procesamiento de alimentos","no","sí",1583.5,"red municipal",535.4,459.6,78
+"Loja","procesamiento de alimentos","sí","sí",1749.35,"red municipal y pozo",832.8,809.92,95
+"Manta","plásticos","no","sí",1440.09,"red municipal y río",601.2,560.85,69
+"Ambato","química","sí","sí",1628.11,"pozo",815.7,717.83,81
+"Guayaquil","química","sí","sí",2641.42,"red municipal",1003.7,692.99,81
+"Ambato","farmacéutica","sí","sí",1354.87,"red municipal y pozo",816.4,747.87,97
+"Quito","plásticos","no","no",NA,"río",551.2,526.58,92
+"Quito","química","sí","sí",1580.94,"pozo",821.4,852.57,98
+"Guayaquil","farmacéutica","sí","no",NA,"red municipal",699.4,546.62,85
+"Quito","metalmecánica","sí","no",NA,"red municipal",890.3,987.85,71
+"Manta","textil","sí","sí",2213.47,"red municipal y río",758.2,573.95,73
+"Manta","procesamiento de alimentos","sí","sí",1581.95,"pozo y río",829.2,626.15,74
+"Cuenca","plásticos","no","sí",2016.08,"red municipal",813.5,881.91,84
+"Cuenca","química","no","sí",1822.64,"red municipal y pozo",758.1,720.2,87
+"Manta","farmacéutica","sí","sí",1266.41,"red municipal",1019.2,932.88,84
+"Loja","metalmecánica","sí","sí",1571.41,"pozo y río",885.8,943.18,90
+"Guayaquil","plásticos","sí","no",NA,"red municipal y pozo",859.2,761.09,81
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"red municipal",820.2,675.55,82
+"Quito","plásticos","no","no",NA,"red municipal",656.4,599.82,88
+"Ambato","metalmecánica","sí","no",NA,"pozo",749.5,745.22,73
+"Quito","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",946.8,848.11,83
+"Ambato","procesamiento de alimentos","sí","sí",1999.12,"red municipal y pozo",870.3,787.65,85
+"Guayaquil","farmacéutica","sí","no",NA,"pozo",669.3,596.99,78
+"Loja","química","sí","sí",1137.86,"red municipal",845.9,865.28,100
+"Cuenca","textil","sí","sí",2115.59,"río",861.6,974.6,101
+"Manta","textil","sí","no",NA,"pozo",970.2,641.58,96
+"Guayaquil","química","sí","no",NA,"red municipal y pozo",803.1,727.13,98
+"Manta","química","sí","sí",1219.65,"red municipal",697.8,653.52,89
+"Quito","farmacéutica","sí","sí",2424.4,"río",850.1,937.13,79
+"Cuenca","química","sí","sí",1289.6,"red municipal y pozo",1154.2,1154.75,85
+"Ambato","química","sí","sí",1096.8,"río",920.9,892.33,77
+"Ambato","metalmecánica","sí","no",NA,"pozo",676.4,773.17,81
+"Cuenca","química","no","no",NA,"pozo",710.8,655.34,86
+"Manta","química","sí","sí",1795.36,"red municipal",925,744.48,87
+"Guayaquil","metalmecánica","sí","no",NA,"río",1065.5,881.6,98
+"Loja","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",927,1020.99,95
+"Ambato","química","sí","sí",1708.5,"red municipal y pozo",736.5,842.75,90
+"Ambato","química","no","sí",1171.67,"pozo",826.1,814.01,75
+"Quito","química","sí","sí",2052.09,"red municipal y pozo y río",1000.1,1110.21,98
+"Ambato","química","sí","sí",960.11,"pozo y río",938.5,998.07,80
+"Quito","procesamiento de alimentos","sí","no",NA,"pozo",825.3,853.07,72
+"Loja","química","sí","sí",1192.96,"pozo y río",759.7,757.26,85
+"Quito","plásticos","no","sí",1594.82,"red municipal",765.9,659.08,88
+"Cuenca","procesamiento de alimentos","sí","sí",691.45,"pozo y río",744.9,652.86,71
+"Guayaquil","química","sí","sí",1398.89,"red municipal y pozo",965,760.16,75
+"Guayaquil","farmacéutica","sí","sí",1083.46,"red municipal y río",922,677.99,84
+"Ambato","procesamiento de alimentos","sí","sí",1046.26,"red municipal",901.5,851.72,71
+"Quito","farmacéutica","sí","no",NA,"red municipal y pozo",840.9,910.4,79
+"Manta","textil","sí","sí",1440.84,"red municipal",978.2,771.95,66
+"Cuenca","metalmecánica","sí","sí",1421.83,"pozo",786.9,786.4,94
+"Cuenca","farmacéutica","sí","no",NA,"red municipal y río",1090.6,1203.24,71
+"Ambato","química","sí","sí",1165.85,"red municipal",997.9,903.07,80
+"Guayaquil","farmacéutica","sí","sí",784.19,"red municipal y río",875.2,600.42,104
+"Cuenca","metalmecánica","sí","sí",2394.79,"red municipal y río",898.9,1029.98,73
+"Loja","plásticos","sí","sí",1674,"red municipal",750.2,648.68,96
+"Manta","textil","sí","sí",1196.52,"red municipal y pozo",1081.5,805.64,91
+"Quito","procesamiento de alimentos","no","no",NA,"red municipal",487.2,551.49,89
+"Manta","metalmecánica","sí","no",NA,"red municipal",692.4,656.6,90
+"Manta","plásticos","no","sí",962.65,"pozo y río",637.2,428.4,78
+"Loja","procesamiento de alimentos","sí","sí",2042.13,"red municipal y pozo",1043.1,903.59,84
+"Manta","farmacéutica","sí","no",NA,"río",964.1,766.28,100
+"Ambato","química","sí","no",NA,"pozo",876.7,974.13,103
+"Cuenca","textil","sí","sí",1069.58,"red municipal y pozo",1022.6,943.82,100
+"Loja","plásticos","sí","sí",1837.62,"pozo y río",803.2,833.67,73
+"Cuenca","procesamiento de alimentos","sí","no",NA,"pozo y río",844.9,795.87,83
+"Quito","procesamiento de alimentos","no","sí",1679.84,"río",679.1,758.78,76
+"Quito","plásticos","sí","no",NA,"red municipal",1011.6,1086.74,84
+"Guayaquil","farmacéutica","sí","no",NA,"pozo y río",664.1,591.98,63
+"Guayaquil","química","no","sí",2335.68,"red municipal y pozo",654.5,559.83,100
+"Cuenca","metalmecánica","sí","sí",1323.56,"red municipal y río",844.5,737.19,76
+"Quito","textil","sí","no",NA,"red municipal y río",753.4,819.5,95
+"Loja","textil","sí","sí",1883.17,"red municipal",779,768.19,88
+"Quito","farmacéutica","sí","no",NA,"red municipal y pozo",888.4,964.41,77
+"Quito","plásticos","no","sí",2321.57,"red municipal y pozo",504.1,542.41,59
+"Manta","textil","sí","no",NA,"pozo",1011.8,872.53,99
+"Cuenca","metalmecánica","no","sí",1730.34,"red municipal",616.2,562.83,106
+"Manta","metalmecánica","sí","sí",1283.91,"río",547.1,409.24,90
+"Loja","metalmecánica","sí","no",NA,"red municipal",880.1,993.7,93
+"Ambato","farmacéutica","sí","sí",1775.26,"red municipal",1098.3,1061.64,95
+"Guayaquil","química","sí","sí",1198.15,"red municipal y pozo y río",869.7,775.33,90
+"Manta","metalmecánica","sí","sí",5179.89154977403,"río",1619.77549373885,1251.55423647596,368
+"Cuenca","plásticos","sí","no",NA,"red municipal",990.2,977.26,102
+"Quito","textil","no","sí",2054.63,"red municipal",516.7,565.51,83
+"Guayaquil","farmacéutica","sí","sí",1614.74,"pozo",881.9,667.55,87
+"Loja","farmacéutica","sí","no",NA,"red municipal",720.6,687.62,79
+"Guayaquil","textil","no","sí",1399.51,"pozo",659.4,598.84,78
+"Quito","plásticos","sí","sí",279.75,"red municipal y pozo",778,833.07,77
+"Cuenca","textil","sí","sí",1119.76,"red municipal",890,929.22,91
+"Loja","química","sí","sí",1634.84,"río",847.2,768.67,99
+"Loja","plásticos","sí","sí",1668.4,"red municipal y pozo y río",734.4,666.15,88
+"Loja","metalmecánica","sí","sí",2898.33701298256,"red municipal y río",2588.93683480155,1829.83685667083,220
+"Quito","química","sí","no",NA,"red municipal y río",908.4,972.68,91
+"Manta","química","sí","no",NA,"red municipal y pozo",896.5,738.03,73
+"Quito","metalmecánica","no","sí",1455.26,"red municipal y pozo",543.6,602.32,60
+"Quito","farmacéutica","sí","no",NA,"río",835.6,945.87,88
+"Loja","farmacéutica","sí","no",NA,"red municipal",1885.65865031332,1845.9616149096,226
+"Cuenca","procesamiento de alimentos","sí","no",NA,"río",995.4,951.62,79
+"Loja","textil","sí","sí",1737.92,"red municipal y río",767.2,671.7,88
+"Ambato","metalmecánica","sí","sí",1416.17,"río",1052.6,1108.15,95
+"Cuenca","farmacéutica","sí","no",NA,"red municipal",881.6,809.42,89
+"Quito","farmacéutica","sí","no",NA,"red municipal",823.4,703.25,77
+"Quito","textil","no","no",NA,"río",787.7,891.29,68
+"Manta","química","sí","sí",1209.08,"río",838.4,645.72,103
+"Ambato","metalmecánica","sí","no",NA,"red municipal y pozo",798.1,770.57,82
+"Quito","plásticos","sí","no",NA,"red municipal",836.7,955.57,74
+"Guayaquil","metalmecánica","sí","sí",1756.25145153399,"red municipal",2711.54984386587,1663.52226786513,276
+"Cuenca","textil","no","sí",854.27,"red municipal y pozo",613.1,632.37,87
+"Guayaquil","metalmecánica","no","sí",1258.12,"pozo y río",849,721.92,96
+"Loja","plásticos","sí","sí",1101.87,"pozo",856.7,870.41,79
+"Manta","textil","sí","sí",1303.24,"pozo y río",728.8,592,84
+"Guayaquil","metalmecánica","sí","sí",668.05,"río",993.3,832.7,95
+"Guayaquil","textil","sí","sí",1066.56,"red municipal",653.6,592.23,72
+"Ambato","plásticos","sí","sí",1109.24,"río",729.9,821.85,92
+"Ambato","procesamiento de alimentos","sí","no",NA,"río",770.2,837.16,83
+"Ambato","farmacéutica","no","sí",1709.79,"red municipal",623.1,612.94,90
+"Cuenca","química","sí","no",NA,"red municipal y río",631.4,542.63,88
+"Manta","farmacéutica","sí","no",NA,"red municipal",1054.4,963.85,103
+"Manta","química","sí","sí",1744.25,"red municipal y pozo y río",879.9,719.78,90
+"Cuenca","metalmecánica","sí","sí",1481.55,"pozo y río",642.2,559.44,88
+"Manta","química","sí","sí",1795.57,"pozo",563.2,481.04,88
+"Ambato","química","sí","no",NA,"red municipal",796.7,771.54,86
+"Manta","textil","no","sí",2225.74,"red municipal",683.6,586.59,87
+"Loja","textil","no","sí",1420.71,"pozo y río",578.1,547.49,72
+"Loja","plásticos","sí","no",NA,"pozo",893.9,888.65,84
+"Manta","procesamiento de alimentos","no","no",NA,"red municipal",746.3,698.62,89
+"Loja","textil","sí","no",NA,"red municipal y río",847.9,751.22,92
+"Ambato","procesamiento de alimentos","sí","no",NA,"río",996,1112.1,83
+"Manta","metalmecánica","sí","sí",854.49,"red municipal",920.3,777.58,103
+"Cuenca","textil","no","sí",2803.17,"pozo",793.6,749.84,83
+"Loja","procesamiento de alimentos","sí","sí",1518.42,"red municipal y pozo",802.9,824.55,78
+"Guayaquil","plásticos","sí","sí",1541.9,"río",885.3,680.99,86
+"Ambato","química","sí","no",NA,"pozo",896.9,906.27,82
+"Manta","procesamiento de alimentos","sí","no",NA,"río",867.8,638.54,82
+"Cuenca","química","sí","sí",1488.9,"red municipal",1032.3,1034.12,94
+"Guayaquil","metalmecánica","sí","sí",2319.69,"red municipal",962.1,862.6,75
+"Manta","textil","sí","no",NA,"red municipal y pozo",969.3,752.38,71
+"Ambato","metalmecánica","no","no",NA,"red municipal",934.5,878.33,76
+"Ambato","procesamiento de alimentos","sí","no",NA,"pozo",761.6,764.47,87
+"Cuenca","procesamiento de alimentos","sí","sí",1952.85,"red municipal",1142.3,1213.19,91
+"Loja","farmacéutica","sí","sí",1882.23,"pozo y río",574.9,609.64,91
+"Manta","metalmecánica","no","sí",1768.43,"pozo",879.7,572.54,98
+"Manta","textil","sí","sí",1178.67,"red municipal",922.8,764.05,99
+"Ambato","química","no","no",NA,"pozo y río",614.8,530.31,91
+"Manta","textil","sí","sí",1280.83,"red municipal y pozo y río",976.7,748.92,83
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"red municipal",677.5,520.32,97
+"Manta","plásticos","sí","sí",1823.19,"red municipal y río",918,651.21,74
+"Manta","plásticos","sí","sí",1935.85,"red municipal y pozo",687.6,546.04,91
+"Quito","plásticos","sí","no",NA,"red municipal y pozo",727.4,704.69,63
+"Ambato","procesamiento de alimentos","sí","sí",1826.39,"río",680.9,646.86,91
+"Cuenca","química","sí","sí",-115.46,"red municipal",806.4,838.57,88
+"Manta","metalmecánica","sí","sí",2202.01,"red municipal",573.6,519.91,81
+"Loja","metalmecánica","no","sí",1558.84,"río",733.9,724.72,82
+"Loja","procesamiento de alimentos","sí","sí",1299.92,"red municipal y pozo",952.4,812.78,97
+"Ambato","procesamiento de alimentos","sí","sí",1307.97,"red municipal y pozo",1159.1,1289.17,84
+"Cuenca","plásticos","sí","no",NA,"río",810.3,739.68,80
+"Cuenca","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",907.2,1001.49,87
+"Loja","textil","sí","no",NA,"red municipal",722.4,648.13,77
+"Ambato","farmacéutica","no","sí",2037.86,"pozo",632,670.68,89
+"Quito","farmacéutica","no","sí",1519.02,"red municipal y pozo",776.5,786.48,83
+"Ambato","farmacéutica","sí","sí",1669.79,"pozo y río",906.8,902.6,96
+"Loja","textil","sí","no",NA,"red municipal y pozo",761.7,753.81,83
+"Manta","procesamiento de alimentos","sí","sí",26.06,"red municipal",967.4,899.17,108
+"Ambato","química","no","sí",1942.66,"pozo",435.5,462.11,95
+"Manta","procesamiento de alimentos","sí","sí",477.72,"red municipal",789.5,540.82,75
+"Quito","procesamiento de alimentos","sí","sí",2353.43,"red municipal",985.8,999.48,81
+"Quito","farmacéutica","sí","sí",1492.8,"red municipal y pozo",570.3,600.06,80
+"Loja","textil","sí","sí",1459.85,"red municipal y pozo",903.6,941.34,88
+"Ambato","química","sí","sí",2149.64,"red municipal y pozo",770.9,869.82,76
+"Quito","farmacéutica","no","sí",1756.42,"red municipal y pozo y río",713.3,711.51,86
+"Guayaquil","química","no","sí",1779.72,"red municipal y río",616.5,478.44,72
+"Cuenca","textil","sí","sí",1105.88,"pozo y río",895.2,892.12,96
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"red municipal",764,665.53,82
+"Quito","procesamiento de alimentos","sí","no",NA,"red municipal",920.2,806.05,74
+"Quito","textil","sí","no",NA,"red municipal y pozo",758,719.31,85
+"Loja","plásticos","sí","no",NA,"pozo",914.1,1038.38,94
+"Cuenca","farmacéutica","sí","sí",2300.64,"red municipal y pozo y río",855,839.56,74
+"Manta","textil","sí","sí",2045.78,"red municipal y pozo",919.9,656.22,73
+"Manta","química","sí","sí",1463.59,"red municipal y pozo",864.9,631.5,74
+"Ambato","plásticos","sí","no",NA,"red municipal y pozo",824,744.22,83
+"Loja","textil","no","no",NA,"red municipal",849.5,974.69,96
+"Ambato","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",821.1,844.64,70
+"Manta","plásticos","no","no",NA,"pozo",539.8,416.74,78
+"Ambato","plásticos","sí","sí",1447.17,"pozo",864.3,896.15,93
+"Guayaquil","farmacéutica","sí","sí",1326.07,"red municipal y pozo",768.7,650.36,72
+"Loja","química","no","sí",926.5,"pozo",714.6,747.8,83
+"Cuenca","procesamiento de alimentos","sí","sí",1240.5,"red municipal y pozo",813.3,785.97,85
+"Loja","plásticos","no","sí",1768.49,"red municipal y pozo",661.2,682.02,68
+"Quito","farmacéutica","sí","no",NA,"río",647.6,685.11,88
+"Ambato","procesamiento de alimentos","sí","no",NA,"red municipal",897.8,772.39,89
+"Cuenca","procesamiento de alimentos","sí","sí",1644.92,"red municipal y pozo",904.1,989.36,92
+"Manta","farmacéutica","sí","sí",1141.48,"red municipal y pozo",1030.6,714.52,88
+"Ambato","textil","sí","sí",1232.09,"pozo y río",1051.2,900.06,88
+"Loja","farmacéutica","sí","no",NA,"red municipal",688.6,718.35,59
+"Cuenca","química","sí","sí",2044.67,"red municipal y pozo",696.5,594.9,83
+"Cuenca","metalmecánica","sí","sí",1054.26,"red municipal",821.3,918.21,82
+"Ambato","procesamiento de alimentos","no","sí",477.56,"pozo y río",566.1,608.38,80
+"Ambato","farmacéutica","sí","no",NA,"red municipal y pozo",793.1,807.7,69
+"Guayaquil","plásticos","no","no",NA,"río",573.3,379.96,84
+"Cuenca","plásticos","sí","no",NA,"red municipal",849.9,773.04,81
+"Quito","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",1000.1,995.01,80
+"Manta","farmacéutica","sí","no",NA,"red municipal",852.9,659.24,83
+"Quito","metalmecánica","no","no",NA,"red municipal",616,707.9,61
+"Loja","textil","sí","sí",1566.72,"pozo",718.7,699.69,74
+"Quito","metalmecánica","no","sí",25.07,"río",745.4,786.09,93
+"Cuenca","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",676.5,581.55,90
+"Guayaquil","farmacéutica","sí","no",NA,"red municipal",922.1,826.28,89
+"Ambato","farmacéutica","sí","no",NA,"red municipal y pozo",666.6,676,88
+"Cuenca","procesamiento de alimentos","sí","sí",1287.9,"red municipal",970.7,1051.97,85
+"Cuenca","plásticos","sí","sí",1432.92,"pozo",1000.6,952.85,84
+"Manta","farmacéutica","sí","sí",1912.66,"red municipal",859.6,668.93,85
+"Quito","química","sí","sí",2812.7,"pozo y río",701.4,659.97,76
+"Quito","plásticos","sí","sí",1129.97,"red municipal",794.3,752.78,90
+"Cuenca","procesamiento de alimentos","sí","no",NA,"pozo",899.8,963.48,83
+"Loja","textil","sí","no",NA,"red municipal",802.8,920.1,80
+"Ambato","metalmecánica","sí","sí",2735.65,"pozo",877,876.84,87
+"Manta","textil","no","sí",2304.12,"red municipal",846.6,661.94,86
+"Ambato","metalmecánica","sí","sí",1883,"red municipal y río",834.3,863.38,88
+"Ambato","textil","sí","sí",1617.28,"red municipal",861.6,795.8,98
+"Cuenca","metalmecánica","sí","no",NA,"red municipal y pozo",881.5,956.97,82
+"Quito","química","no","no",NA,"red municipal",769.8,802.57,73
+"Loja","procesamiento de alimentos","sí","no",NA,"red municipal",736,761.45,93
+"Cuenca","metalmecánica","no","sí",2545.84,"red municipal",758.8,800.35,88
+"Manta","procesamiento de alimentos","sí","sí",1361.11,"pozo",678.7,463.56,88
+"Ambato","plásticos","sí","sí",718.81,"red municipal y río",897.1,949.05,101
+"Ambato","textil","sí","sí",2063.7,"red municipal",761.7,744.18,90
+"Manta","farmacéutica","sí","sí",2309.3,"pozo",833.9,715.22,73
+"Manta","procesamiento de alimentos","sí","no",NA,"río",774.9,547.17,91
+"Manta","farmacéutica","no","sí",1745.9,"red municipal y río",783.9,594.71,84
+"Guayaquil","plásticos","sí","no",NA,"red municipal y río",1011.9,741.01,89
+"Guayaquil","farmacéutica","no","sí",1854.51,"pozo",693.3,629.28,87
+"Quito","plásticos","sí","sí",1184.59,"pozo y río",811.9,903.82,93
+"Quito","química","sí","sí",1649.6,"red municipal",666,739.26,73
+"Loja","metalmecánica","sí","sí",1178.72,"pozo",839.4,779.64,65
+"Guayaquil","plásticos","sí","sí",2051.13,"red municipal",871.7,647.45,70
+"Manta","procesamiento de alimentos","sí","no",NA,"red municipal y río",864.1,786.68,66
+"Ambato","metalmecánica","no","sí",1168.71,"red municipal",912.8,868.27,79
+"Loja","química","sí","sí",795.89,"red municipal y pozo",790.5,848.01,91
+"Ambato","química","no","no",NA,"red municipal",599.6,539.19,91
+"Quito","farmacéutica","no","sí",2066.46,"red municipal y pozo",726.1,799.09,82
+"Cuenca","farmacéutica","sí","sí",2346.1,"red municipal y pozo",852.4,761.48,90
+"Manta","química","sí","sí",1986.31,"pozo",794.2,543.55,76
+"Ambato","textil","sí","sí",1090.69,"red municipal y pozo",935.3,955.95,91
+"Cuenca","textil","no","sí",1363.17,"río",675.6,656.95,94
+"Quito","metalmecánica","sí","sí",2412.16,"pozo y río",685.6,582.88,86
+"Quito","plásticos","sí","no",NA,"red municipal y pozo y río",990.5,1029.61,89
+"Loja","procesamiento de alimentos","sí","no",NA,"pozo",1063.7,1135.09,76
+"Ambato","procesamiento de alimentos","sí","no",NA,"pozo y río",896.3,950.39,86
+"Quito","metalmecánica","sí","sí",2002.49,"red municipal y pozo",620,604.74,78
+"Ambato","textil","sí","sí",817.12,"pozo",857.7,733.97,98
+"Cuenca","metalmecánica","sí","sí",1486.46,"pozo",773.3,877.55,74
+"Manta","química","no","sí",1652.92,"pozo y río",709.8,588.59,76
+"Ambato","textil","no","sí",930.98,"red municipal",646.1,673.15,82
+"Quito","metalmecánica","sí","sí",912.19,"red municipal y pozo",948.8,1056,77
+"Ambato","textil","sí","no",NA,"pozo",787.5,759.51,79
+"Loja","química","no","no",NA,"red municipal",577.9,542.81,89
+"Ambato","plásticos","sí","sí",2266.26,"red municipal y pozo",939.8,1017.57,82
+"Manta","farmacéutica","no","sí",1211.52,"red municipal y pozo",495.3,440.71,87
+"Cuenca","química","sí","no",NA,"red municipal",2078.59090465298,1908.45420435092,304
+"Ambato","procesamiento de alimentos","sí","sí",1853.82,"red municipal",742.5,682.34,80
+"Ambato","farmacéutica","sí","sí",1336.22,"red municipal y pozo",1107.6,1058.51,85
+"Loja","farmacéutica","sí","sí",2179.31,"red municipal",819.8,749.71,96
+"Manta","procesamiento de alimentos","sí","no",NA,"red municipal",2321.70502494648,1647.42502244078,241
+"Ambato","textil","no","sí",426.44,"red municipal y río",615.3,655.95,79
+"Cuenca","textil","sí","no",NA,"red municipal y pozo y río",739.6,702.21,68
+"Manta","metalmecánica","sí","sí",2426.77,"red municipal y pozo",815.5,587.91,91
+"Guayaquil","plásticos","sí","no",NA,"red municipal y pozo",603.6,478.12,87
+"Loja","textil","sí","sí",1627.11,"red municipal y río",785.2,713.33,77
+"Loja","metalmecánica","sí","no",NA,"río",943.9,935.06,77
+"Ambato","farmacéutica","sí","sí",1904.11,"pozo",841.1,892.34,96
+"Guayaquil","textil","sí","no",NA,"red municipal y pozo y río",830.9,775.26,83
+"Ambato","farmacéutica","sí","no",NA,"red municipal y pozo",1963.21248594671,1663.65837863456,271
+"Cuenca","química","sí","sí",1469.32,"red municipal y pozo",1006,1092.8,81
+"Cuenca","procesamiento de alimentos","sí","sí",3260.11,"red municipal",867.7,890.81,79
+"Manta","metalmecánica","sí","sí",1839.96,"red municipal",686.2,555.79,100
+"Manta","textil","sí","no",NA,"red municipal y pozo",852.1,710.13,85
+"Cuenca","farmacéutica","sí","sí",1766.65,"red municipal",834.9,730.47,83
+"Manta","química","sí","no",NA,"red municipal",931.8,749.14,89
+"Loja","farmacéutica","sí","sí",1725.44,"red municipal",898.1,947.77,78
+"Cuenca","procesamiento de alimentos","no","sí",1977.65,"río",549.5,563.98,80
+"Quito","textil","sí","sí",812.29,"red municipal",926,861.43,80
+"Cuenca","textil","sí","sí",1025.19,"red municipal",800.3,886.42,80
+"Cuenca","procesamiento de alimentos","sí","no",NA,"red municipal",827.3,946.84,89
+"Ambato","farmacéutica","sí","no",NA,"red municipal",924.8,918.48,82
+"Guayaquil","procesamiento de alimentos","sí","sí",1326.05,"red municipal y pozo",859.1,765.95,94
+"Loja","farmacéutica","sí","sí",1815.79,"pozo",968.6,1021.24,107
+"Cuenca","farmacéutica","sí","sí",939.71,"red municipal",785.2,769,76
+"Cuenca","metalmecánica","sí","sí",1155.78,"red municipal y río",859.9,754.17,82
+"Quito","farmacéutica","sí","sí",1336.99,"pozo y río",809.2,804.89,78
+"Manta","textil","sí","no",NA,"pozo",957.2,830.87,96
+"Loja","textil","sí","sí",695.2,"pozo",1032.5,1064.05,82
+"Quito","química","sí","no",NA,"red municipal",877.8,946.47,80
+"Quito","química","no","sí",2155.42,"red municipal y pozo",694.7,606.81,94
+"Ambato","procesamiento de alimentos","sí","no",NA,"red municipal y río",673,640.87,92
+"Loja","plásticos","sí","no",NA,"río",799.7,803.3,90
+"Ambato","farmacéutica","sí","sí",860.77,"pozo",829.8,905.1,74
+"Cuenca","plásticos","no","no",NA,"red municipal y pozo",509.1,512.43,91
+"Loja","procesamiento de alimentos","sí","no",NA,"red municipal",670.5,617.66,73
+"Guayaquil","textil","sí","no",NA,"pozo y río",859.7,626.46,87
+"Cuenca","textil","sí","no",NA,"río",840.3,839.09,91
+"Cuenca","química","sí","no",NA,"red municipal y pozo",938.3,860.73,88
+"Ambato","plásticos","sí","sí",1700.38,"red municipal",1024.6,1043.44,78
+"Quito","plásticos","sí","sí",1267.26,"pozo y río",835.1,847.84,96
+"Cuenca","metalmecánica","sí","no",NA,"red municipal y pozo y río",936.3,856.04,96
+"Guayaquil","procesamiento de alimentos","sí","sí",1749.54,"red municipal y pozo",823.1,776.79,93
+"Guayaquil","procesamiento de alimentos","sí","sí",949.26,"red municipal y pozo",746,663.92,89
+"Cuenca","química","no","no",NA,"pozo y río",714.8,621.73,95
+"Quito","farmacéutica","sí","sí",1782.4,"red municipal y pozo",1034.6,879.97,72
+"Guayaquil","procesamiento de alimentos","sí","sí",1565.5,"red municipal y pozo",777.8,737.25,70
+"Manta","procesamiento de alimentos","sí","sí",1412.97,"pozo y río",696.8,610.38,78
+"Quito","farmacéutica","sí","no",NA,"red municipal y río",677.2,755.82,71
+"Quito","plásticos","sí","sí",809.78,"red municipal",721.7,659.75,85
+"Quito","procesamiento de alimentos","sí","sí",1345.1,"pozo",689.5,592.11,97
+"Loja","textil","sí","no",NA,"red municipal y río",765.9,674.66,83
+"Manta","química","sí","no",NA,"red municipal",900.5,629.43,78
+"Manta","textil","sí","sí",1338.36,"pozo",1061.8,772.03,79
+"Loja","farmacéutica","sí","sí",1438.24,"río",971.6,958.35,86
+"Manta","procesamiento de alimentos","no","no",NA,"red municipal y río",820.6,714.83,88
+"Guayaquil","textil","sí","no",NA,"red municipal",824.8,655.73,79
+"Cuenca","química","no","no",NA,"red municipal y pozo",790.5,769.27,73
+"Ambato","metalmecánica","sí","sí",3670.21642435329,"red municipal y pozo",2630.15160602296,2409.6229372099,227
+"Manta","textil","sí","sí",1706.6,"red municipal y pozo",780.6,547.08,80
+"Manta","plásticos","sí","sí",2200.82,"red municipal y río",737.7,660.65,73
+"Cuenca","metalmecánica","sí","sí",1641.17,"red municipal y pozo",1152.4,1143.78,96
+"Quito","farmacéutica","no","no",NA,"red municipal",410.6,421.73,83
+"Ambato","metalmecánica","sí","sí",2383.52490905841,"río",1711.58710451368,1747.34455273764,200
+"Loja","textil","sí","sí",1442.9,"red municipal",985.2,1068.28,90
+"Manta","metalmecánica","sí","sí",1664.13,"red municipal y pozo",679.6,534.51,89
+"Cuenca","procesamiento de alimentos","sí","no",NA,"red municipal",684,737.75,58
+"Cuenca","química","no","sí",2379.57,"río",719.7,782.18,97
+"Quito","plásticos","sí","no",NA,"pozo y río",910.3,825.4,93
+"Loja","plásticos","sí","no",NA,"red municipal",720.6,761.38,84
+"Guayaquil","metalmecánica","sí","sí",1492.86,"red municipal",671.2,591.17,55
+"Guayaquil","textil","no","sí",1689.83,"red municipal y pozo",758,646.88,90
+"Loja","textil","sí","no",NA,"red municipal",681.9,597.79,73
+"Loja","procesamiento de alimentos","no","sí",1377.21,"red municipal",891.2,1010.21,86
+"Cuenca","farmacéutica","sí","no",NA,"red municipal",2340.10794402801,1661.17717466392,293
+"Manta","procesamiento de alimentos","sí","sí",1055.36,"pozo",954.1,895.69,95
+"Manta","plásticos","sí","no",NA,"red municipal y río",878.1,731.22,83
+"Cuenca","química","no","sí",2234.36,"red municipal y pozo",511.2,566.77,77
+"Ambato","textil","sí","no",NA,"red municipal",883,814.5,71
+"Ambato","metalmecánica","sí","sí",1910.31,"red municipal y pozo",943.7,1049.71,97
+"Ambato","metalmecánica","sí","no",NA,"red municipal",797.1,753.47,87
+"Ambato","procesamiento de alimentos","no","no",NA,"red municipal y río",577,578.82,88
+"Ambato","procesamiento de alimentos","sí","sí",765.23,"río",943.5,806.82,81
+"Guayaquil","farmacéutica","sí","sí",1143.57,"red municipal y río",866.7,695.45,80
+"Ambato","química","sí","sí",2243.92,"red municipal",846,957.41,92
+"Ambato","farmacéutica","no","sí",1082.88,"red municipal",437.7,445.52,72
+"Guayaquil","farmacéutica","sí","no",NA,"red municipal",976.6,748.18,104
+"Guayaquil","metalmecánica","sí","no",NA,"red municipal y río",921.3,777.18,99
+"Quito","farmacéutica","sí","sí",1559.04,"red municipal",988.3,1098.71,88
+"Guayaquil","plásticos","sí","sí",1076.41,"río",686.5,606.29,85
+"Guayaquil","farmacéutica","sí","sí",1921.23,"red municipal y pozo",759.4,606.64,76
+"Cuenca","química","sí","sí",1323.01,"red municipal y río",1129.1,1100.55,72
+"Loja","procesamiento de alimentos","sí","sí",1705.31,"río",609.4,518.4,81
+"Loja","textil","sí","no",NA,"pozo",1046.5,907.3,75
+"Quito","plásticos","no","sí",1621.8,"red municipal y pozo",835.3,730.7,88
+"Cuenca","metalmecánica","sí","no",NA,"red municipal y pozo",770.1,836.91,89
+"Cuenca","química","sí","sí",1486.86,"red municipal y pozo",861.5,917.17,95
+"Manta","química","sí","sí",1674.85,"pozo y río",895.7,734.45,108
+"Guayaquil","textil","sí","no",NA,"pozo",713.7,622.06,70
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",1039.3,779.85,82
+"Ambato","plásticos","no","no",NA,"red municipal",507.5,541.46,66
+"Quito","plásticos","sí","sí",1780.39,"red municipal",838.3,847.56,85
+"Manta","textil","sí","no",NA,"red municipal",748.6,550.99,96
+"Cuenca","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",913.9,797.15,80
+"Manta","metalmecánica","sí","sí",1976.23,"red municipal y río",949.6,668.87,93
+"Guayaquil","farmacéutica","sí","sí",1703.88,"red municipal y pozo",967.3,756.35,73
+"Manta","metalmecánica","sí","sí",836.38,"pozo",799.5,741.92,96
+"Ambato","farmacéutica","sí","sí",1718.51,"red municipal",834.4,807.09,75
+"Ambato","procesamiento de alimentos","no","no",NA,"red municipal",753.3,705.44,101
+"Manta","metalmecánica","sí","sí",2153.24,"pozo",845.1,581.52,79
+"Cuenca","metalmecánica","sí","sí",1337.05,"red municipal y pozo",914.1,797.54,95
+"Manta","procesamiento de alimentos","sí","no",NA,"red municipal",834.7,682.68,88
+"Ambato","química","sí","sí",921.06,"red municipal y pozo",763.2,797.72,99
+"Quito","textil","sí","sí",795.03,"red municipal y pozo",719.3,643.23,92
+"Ambato","plásticos","sí","no",NA,"pozo y río",910.9,894.15,70
+"Quito","metalmecánica","no","no",NA,"pozo",624.4,549.85,73
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"pozo",958.1,906.02,95
+"Manta","farmacéutica","no","sí",380.79,"red municipal y pozo",772.8,558.91,99
+"Quito","farmacéutica","sí","no",NA,"red municipal y pozo y río",783.9,741.97,79
+"Loja","plásticos","sí","sí",1373.15,"red municipal",955.5,1047.08,93
+"Ambato","textil","sí","no",NA,"río",936.9,877.89,94
+"Manta","plásticos","sí","sí",1247.1,"red municipal y río",832.5,564.78,71
+"Manta","farmacéutica","sí","sí",2515.88,"red municipal y río",894.3,680.47,87
+"Loja","textil","sí","no",NA,"red municipal y río",1082.4,1160.54,66
+"Manta","procesamiento de alimentos","sí","sí",913.97,"red municipal y pozo",782.4,721.33,108
+"Cuenca","procesamiento de alimentos","sí","sí",2822.67,"red municipal",808.8,895.79,93
+"Guayaquil","metalmecánica","sí","sí",1738.54,"red municipal y pozo",893.3,768.84,78
+"Guayaquil","farmacéutica","no","no",NA,"red municipal",589.9,487.82,69
+"Guayaquil","textil","sí","sí",2033.3,"red municipal y río",733.3,506.58,81
+"Ambato","plásticos","sí","sí",1338.22,"río",999.3,1034.23,67
+"Guayaquil","química","no","sí",1491.79,"red municipal y pozo y río",670.4,612.83,84
+"Loja","textil","sí","no",NA,"red municipal y pozo",906.5,1000.53,103
+"Guayaquil","metalmecánica","sí","no",NA,"río",880.5,766.35,88
+"Cuenca","plásticos","sí","sí",1143.94,"pozo y río",1058.2,1166.84,83
+"Manta","farmacéutica","sí","no",NA,"red municipal",824.5,690.07,92
+"Quito","farmacéutica","sí","sí",1533.69,"pozo",827.7,732.88,82
+"Quito","plásticos","sí","no",NA,"red municipal",1082.9,1200.8,89
+"Manta","textil","no","sí",1461,"red municipal y pozo",851.5,641.96,85
+"Guayaquil","procesamiento de alimentos","no","no",NA,"red municipal",769.2,711.41,88
+"Cuenca","química","sí","sí",2465.11,"red municipal",1013.4,1114.26,90
+"Quito","metalmecánica","no","sí",2282.7,"pozo",607.6,632.62,87
+"Cuenca","metalmecánica","sí","sí",1375.75,"pozo",754.4,754.42,97
+"Cuenca","textil","sí","no",NA,"pozo y río",705.7,743.23,82
+"Loja","química","sí","sí",1324.86,"pozo y río",736,764.4,82
+"Manta","procesamiento de alimentos","sí","sí",2678.07,"red municipal y río",940.5,623.67,97
+"Loja","textil","no","no",NA,"red municipal y río",483.3,547.64,89
+"Cuenca","química","sí","sí",1940.77,"río",882.2,961,90
+"Ambato","textil","no","no",NA,"pozo y río",789.7,828.89,89
+"Manta","plásticos","sí","sí",1356.24,"red municipal y pozo",904.5,612.12,88
+"Manta","química","sí","sí",1604.44,"red municipal y pozo y río",923.8,652.53,96
+"Guayaquil","farmacéutica","sí","no",NA,"río",908.7,707.53,76
+"Loja","química","sí","no",NA,"red municipal",756.3,857.93,79
+"Ambato","química","no","sí",1279.99,"pozo",640,716.7,80
+"Loja","metalmecánica","sí","no",NA,"pozo y río",923.9,865.63,76
+"Cuenca","plásticos","sí","sí",1307.59,"red municipal",791.4,763.71,94
+"Guayaquil","metalmecánica","sí","sí",748.03,"red municipal",754.5,600.42,97
+"Cuenca","plásticos","no","sí",1004.97,"río",654,565.26,101
+"Cuenca","química","sí","sí",1492.68,"red municipal",1008.4,895.57,87
+"Ambato","metalmecánica","sí","sí",1478.9,"río",883.2,981.32,75
+"Quito","procesamiento de alimentos","sí","sí",1727.74,"red municipal y río",828.9,813.87,89
+"Ambato","procesamiento de alimentos","sí","sí",1311.96,"red municipal y río",840.6,931.81,73
+"Ambato","procesamiento de alimentos","sí","no",NA,"pozo",929.3,970.11,109
+"Manta","textil","sí","sí",1250.13,"red municipal y pozo",889.4,583.25,69
+"Guayaquil","química","sí","sí",1132.45,"río",813.4,667.76,77
+"Cuenca","textil","sí","sí",2241.64,"red municipal",971.3,878.18,87
+"Cuenca","plásticos","sí","sí",1253.59,"red municipal",940.5,845.66,76
+"Manta","textil","sí","sí",1866.46,"red municipal y pozo",795.5,676.89,85
+"Cuenca","plásticos","sí","no",NA,"red municipal y pozo",2717.27347773055,2435.31396489166,310
+"Ambato","textil","sí","sí",1592.73,"red municipal y pozo",743.5,726.92,69
+"Guayaquil","procesamiento de alimentos","sí","sí",1773.69,"red municipal y pozo",811,744.59,88
+"Quito","química","no","sí",1310.61,"red municipal",655.9,699.23,84
+"Loja","farmacéutica","sí","sí",981.13,"red municipal y río",915.9,970.77,89
+"Loja","metalmecánica","sí","sí",1479.99,"red municipal",1051.1,1085.2,89
+"Guayaquil","textil","no","no",NA,"red municipal",598.6,396.34,84
+"Loja","textil","sí","sí",1525.65,"red municipal y pozo y río",825.2,840.14,79
+"Guayaquil","plásticos","sí","sí",1428.18,"río",986.4,925.34,71
+"Cuenca","química","no","sí",1375.36,"río",743.3,753.94,98
+"Quito","farmacéutica","sí","sí",1840.49,"pozo",864.6,736.61,82
+"Guayaquil","farmacéutica","no","no",NA,"red municipal y pozo",863.7,596.39,88
+"Loja","química","sí","no",NA,"red municipal",655,680.43,91
+"Quito","plásticos","sí","sí",1278.35,"red municipal",884.9,863.61,69
+"Manta","procesamiento de alimentos","sí","no",NA,"pozo",704.4,487.03,78
+"Guayaquil","química","sí","no",NA,"red municipal y pozo",968.6,671.61,81
+"Loja","metalmecánica","sí","sí",1409.67,"pozo y río",815.1,804.16,74
+"Cuenca","textil","sí","no",NA,"red municipal y río",850.3,897.86,80
+"Guayaquil","metalmecánica","sí","sí",1498.83,"red municipal y pozo",868.8,619.45,113
+"Ambato","metalmecánica","sí","sí",815.66,"red municipal y pozo",987.2,985.59,90
+"Manta","procesamiento de alimentos","sí","sí",1838.06,"pozo y río",853.2,693.96,96
+"Loja","metalmecánica","sí","sí",1472.11,"red municipal y pozo",942.2,1065.92,95
+"Ambato","procesamiento de alimentos","sí","sí",1792.45,"río",981.2,1066.35,99
+"Ambato","farmacéutica","sí","no",NA,"pozo",898.8,842.39,77
+"Manta","farmacéutica","sí","no",NA,"pozo",979.2,739.61,88
+"Cuenca","farmacéutica","sí","sí",1436.79,"red municipal",892.3,814.09,76
+"Cuenca","metalmecánica","sí","sí",1512.23,"pozo y río",834.9,819.39,93
+"Guayaquil","metalmecánica","no","no",NA,"red municipal",729.6,501.16,83
+"Quito","procesamiento de alimentos","sí","sí",1635.71,"red municipal y pozo",820.2,867.68,92
+"Loja","farmacéutica","no","sí",2208.91,"red municipal y río",718.5,678.8,73
+"Loja","textil","sí","sí",1729.34,"río",1091,996.28,81
+"Cuenca","plásticos","sí","sí",1539.88,"red municipal y pozo",743.1,679.57,84
+"Manta","procesamiento de alimentos","sí","sí",4186.62950069376,"red municipal y pozo",2250.6743759769,1935.91963821726,285
+"Guayaquil","metalmecánica","no","sí",1272.66,"red municipal",734.2,650.45,86
+"Quito","plásticos","sí","sí",1659.52,"red municipal",977.7,850.59,74
+"Loja","farmacéutica","no","no",NA,"red municipal y pozo",595.6,560.45,67
+"Ambato","química","no","no",NA,"red municipal y pozo",582.9,495.66,82
+"Loja","química","sí","sí",1015.8,"red municipal y pozo",1137.4,1292.55,84
+"Manta","metalmecánica","sí","no",NA,"red municipal y pozo y río",767,673.35,85
+"Quito","metalmecánica","no","sí",1149.9,"red municipal",733.7,809.9,91
+"Loja","metalmecánica","sí","sí",1506.16,"pozo",792.6,686.57,78
+"Loja","farmacéutica","no","sí",1944.53,"red municipal y pozo",570.9,620.22,84
+"Manta","farmacéutica","no","no",NA,"río",616.6,460.33,74
+"Guayaquil","farmacéutica","sí","sí",789.97,"red municipal y río",680.2,640.92,86
+"Cuenca","química","sí","sí",1715.72,"red municipal",880.5,760.32,83
+"Quito","textil","sí","sí",1146.77,"red municipal",817.9,715.02,70
+"Ambato","plásticos","sí","sí",1206.28,"pozo",821.5,838.85,71
+"Cuenca","plásticos","no","sí",1942.25,"red municipal",833.3,781.64,84
+"Loja","procesamiento de alimentos","sí","no",NA,"red municipal",998,1075.09,83
+"Guayaquil","química","no","no",NA,"red municipal y pozo y río",565.4,385.66,96
+"Cuenca","textil","sí","sí",1336.17,"pozo",779.4,736.68,83
+"Loja","metalmecánica","sí","sí",370.68,"red municipal",845.4,826.72,93
+"Ambato","procesamiento de alimentos","sí","sí",2011.63,"pozo y río",638.6,634.1,77
+"Manta","procesamiento de alimentos","no","sí",1525.57,"red municipal y pozo",754.4,556.19,84
+"Cuenca","farmacéutica","sí","no",NA,"red municipal",782.9,669.39,83
+"Ambato","química","sí","sí",1525.63,"red municipal",842.5,800.69,98
+"Manta","procesamiento de alimentos","no","sí",1994.13,"red municipal y río",706.8,578.39,88
+"Cuenca","procesamiento de alimentos","sí","no",NA,"río",846.2,773.14,73
+"Cuenca","procesamiento de alimentos","no","sí",2078.46,"pozo",720.7,820,73
+"Quito","plásticos","sí","sí",2667.31,"red municipal",1007.8,1062.7,86
+"Quito","química","sí","no",NA,"pozo",699.8,644.58,81
+"Guayaquil","química","sí","sí",1379.54,"pozo y río",810.2,563.25,76
+"Ambato","metalmecánica","sí","no",NA,"pozo",712.2,683.9,93
+"Quito","textil","no","no",NA,"red municipal y pozo",810.3,756.98,74
+"Manta","plásticos","sí","no",NA,"red municipal y pozo y río",1109.1,881.72,88
+"Cuenca","plásticos","sí","no",NA,"red municipal y pozo",920.3,806.25,94
+"Ambato","farmacéutica","sí","no",NA,"red municipal",788.6,678.21,89
+"Loja","farmacéutica","sí","sí",874.02,"red municipal y pozo",812.7,697.96,85
+"Guayaquil","plásticos","sí","no",NA,"red municipal y pozo",926.4,614.66,81
+"Ambato","plásticos","sí","sí",1487.64,"red municipal y pozo",922.5,1028.76,83
+"Quito","química","sí","sí",1780.45,"red municipal",808.6,907.39,92
+"Loja","procesamiento de alimentos","sí","sí",1021.48,"red municipal y pozo",789.9,791.12,85
+"Loja","farmacéutica","no","sí",238.9,"pozo y río",638.4,702.01,96
+"Loja","textil","sí","sí",1873.16,"red municipal",951,989.54,86
+"Ambato","metalmecánica","sí","sí",1644.09,"red municipal",872.2,846.58,97
+"Quito","farmacéutica","sí","sí",1599.21,"pozo",987.1,1057.2,77
+"Loja","plásticos","sí","no",NA,"pozo",565.7,549.63,84
+"Ambato","farmacéutica","no","sí",1806.48,"red municipal y pozo",876.9,946.42,102
+"Cuenca","textil","sí","sí",1483.45,"red municipal y río",1006.6,950.11,87
+"Guayaquil","metalmecánica","sí","sí",1236.42,"red municipal y río",982.2,861.63,71
+"Guayaquil","farmacéutica","sí","sí",1462.06,"pozo y río",689.8,494.47,80
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"red municipal",809,669.66,82
+"Quito","química","sí","no",NA,"pozo y río",2583.36607441753,2202.37174703001,273
+"Guayaquil","química","sí","no",NA,"red municipal y río",835.9,759.7,101
+"Cuenca","farmacéutica","sí","sí",764.16,"red municipal",786.7,713.93,76
+"Cuenca","procesamiento de alimentos","sí","sí",1708.24,"red municipal",870.8,742.44,87
+"Loja","procesamiento de alimentos","sí","no",NA,"red municipal",847.9,803.42,101
+"Loja","farmacéutica","sí","sí",1428.2,"red municipal y pozo y río",638.4,700.58,97
+"Cuenca","procesamiento de alimentos","sí","sí",1329.19,"pozo",616.8,555.16,92
+"Cuenca","plásticos","sí","no",NA,"red municipal y pozo",963.9,947.9,79
+"Cuenca","química","no","sí",1571,"red municipal y pozo",612,545.91,87
+"Guayaquil","metalmecánica","sí","sí",1761.85,"río",734.2,647.89,82
+"Loja","metalmecánica","sí","sí",1376.47,"red municipal",938.1,963.11,78
+"Quito","farmacéutica","sí","no",NA,"red municipal y pozo",1105.4,1262.29,95
+"Loja","metalmecánica","sí","no",NA,"red municipal",1002.1,1055.45,71
+"Loja","metalmecánica","sí","no",NA,"pozo y río",743.7,827.56,77
+"Guayaquil","procesamiento de alimentos","sí","sí",1740.4,"pozo y río",835.6,546.4,86
+"Guayaquil","metalmecánica","sí","sí",2087.79,"red municipal",941,688.09,98
+"Cuenca","química","sí","sí",666.58,"río",797.1,782.37,76
+"Ambato","procesamiento de alimentos","sí","sí",1548.56,"red municipal",794.6,754.4,82
+"Manta","procesamiento de alimentos","sí","no",NA,"río",705.1,647.92,85
+"Ambato","metalmecánica","no","no",NA,"red municipal",878.1,787.69,93
+"Loja","química","sí","sí",867.69,"pozo",1119,1205.21,94
+"Cuenca","metalmecánica","sí","sí",1517.05,"red municipal y pozo",1014,927.68,95
+"Cuenca","plásticos","sí","sí",1931.34,"red municipal y pozo",888.7,903.58,85
+"Guayaquil","metalmecánica","sí","sí",1131.6,"red municipal y pozo",912.5,814.62,86
+"Quito","farmacéutica","sí","sí",1353.64,"red municipal",863.7,928.04,93
+"Cuenca","procesamiento de alimentos","sí","sí",877.54,"red municipal y río",909.1,903.09,112
+"Cuenca","química","sí","sí",2162.11,"red municipal y pozo",701.3,748.82,85
+"Manta","metalmecánica","sí","sí",1819.34,"red municipal y pozo",777.9,708.37,86
+"Ambato","textil","no","sí",1926.08,"red municipal y pozo",690.9,764.25,79
+"Manta","textil","sí","no",NA,"pozo",765.8,553.55,78
+"Loja","procesamiento de alimentos","no","sí",1465.05,"río",634.7,649.64,71
+"Quito","química","sí","sí",475.42,"red municipal",889.6,931.77,92
+"Manta","plásticos","no","sí",1002.08,"red municipal",612.3,413.22,96
+"Manta","farmacéutica","sí","no",NA,"red municipal",898,833.66,82
+"Cuenca","química","sí","sí",1945.53,"río",653.4,558.96,86
+"Loja","plásticos","sí","sí",5761.40498490555,"pozo",1727.28296077941,1404.70604735999,237
+"Ambato","textil","no","sí",1103.22,"río",888.4,838.31,86
+"Quito","farmacéutica","no","no",NA,"red municipal y pozo",611.6,586.99,74
+"Ambato","plásticos","sí","no",NA,"pozo",951.2,928.73,91
+"Ambato","textil","sí","no",NA,"red municipal y pozo y río",982.5,1115.25,95
+"Quito","química","sí","sí",2368.32,"red municipal y pozo",903.4,976.2,89
+"Loja","textil","sí","sí",1018.47,"pozo y río",902,921.57,92
+"Quito","textil","sí","sí",1788.6,"red municipal y pozo y río",727.3,763.27,71
+"Manta","química","no","sí",701.99,"red municipal y río",405,294.26,64
+"Ambato","textil","sí","sí",2188.71,"red municipal",1108.5,978.61,92
+"Manta","plásticos","sí","sí",1312.21,"red municipal y pozo",647.9,535.14,78
+"Guayaquil","procesamiento de alimentos","sí","sí",2057.49,"red municipal y pozo",682.8,478.61,71
+"Manta","metalmecánica","sí","sí",1977.65,"red municipal y río",777.6,566.69,70
+"Loja","procesamiento de alimentos","sí","no",NA,"río",1886.14011510364,2076.3767969966,206
+"Loja","farmacéutica","no","sí",1662.22,"pozo",642.6,582.28,80
+"Guayaquil","procesamiento de alimentos","sí","sí",2016.25,"red municipal y pozo",933.9,855.5,78
+"Manta","metalmecánica","no","no",NA,"pozo",465.5,375.18,80
+"Manta","procesamiento de alimentos","sí","sí",1683.86,"pozo",913,789.93,97
+"Ambato","farmacéutica","sí","sí",1014.97,"red municipal y pozo",833.3,894.15,100
+"Cuenca","farmacéutica","no","sí",1928.49,"red municipal y pozo",588,502.37,93
+"Ambato","procesamiento de alimentos","sí","sí",1089.63,"red municipal y río",657.1,726.93,92
+"Ambato","plásticos","no","sí",2503.15,"pozo",683,782.92,67
+"Cuenca","farmacéutica","no","sí",1844.08,"red municipal",583,564.96,74
+"Loja","metalmecánica","sí","sí",1799.27,"red municipal",716.7,688.77,81
+"Cuenca","textil","sí","no",NA,"red municipal y pozo",1096.2,1241.6,76
+"Manta","farmacéutica","sí","no",NA,"red municipal y pozo",939.4,726.1,77
+"Loja","procesamiento de alimentos","sí","no",NA,"pozo",895.1,850.58,89
+"Guayaquil","química","sí","sí",1218.31,"red municipal",1067.4,926.85,81
+"Cuenca","química","no","no",NA,"pozo",750.9,787.99,92
+"Quito","química","sí","no",NA,"red municipal y pozo",937.5,1040.24,76
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",876.2,819.31,93
+"Ambato","textil","no","sí",1627.15,"red municipal y pozo y río",872.9,845.15,100
+"Cuenca","farmacéutica","sí","no",NA,"red municipal y pozo",880.8,873.27,82
+"Guayaquil","química","sí","sí",1708.31,"red municipal",933.6,676.88,75
+"Quito","química","sí","no",NA,"red municipal y pozo",845.8,822.43,81
+"Ambato","plásticos","sí","no",NA,"red municipal",826.5,887.5,77
+"Ambato","química","sí","sí",721.42,"río",813.4,886.38,98
+"Cuenca","química","sí","no",NA,"pozo",797.1,841.91,72
+"Cuenca","química","sí","no",NA,"red municipal",899.5,960.48,89
+"Manta","plásticos","sí","sí",1185.8,"red municipal",919.7,600.39,93
+"Guayaquil","farmacéutica","no","sí",1309.85,"red municipal y río",911,829.08,79
+"Manta","química","sí","no",NA,"red municipal",872.2,656.04,79
+"Loja","plásticos","no","sí",1551.28,"pozo",663.6,589.31,87
+"Cuenca","procesamiento de alimentos","sí","no",NA,"red municipal",688.4,670.79,79
+"Loja","procesamiento de alimentos","sí","no",NA,"pozo",752.1,856.88,89
+"Guayaquil","metalmecánica","sí","sí",1910.3,"red municipal",1025.5,852.96,89
+"Quito","textil","sí","sí",1875.72,"red municipal",869.5,953.7,77
+"Cuenca","metalmecánica","no","sí",1355.89,"red municipal",811.7,758.97,82
+"Guayaquil","textil","sí","sí",1667.03,"red municipal y pozo y río",664.1,570.43,79
+"Manta","plásticos","sí","no",NA,"red municipal y río",940.6,612.74,87
+"Ambato","farmacéutica","sí","sí",624.26,"río",851.2,771.13,77
+"Quito","química","sí","no",NA,"red municipal",636.5,627.65,66
+"Ambato","química","sí","sí",1027.8,"red municipal",736.4,764.03,89
+"Loja","plásticos","sí","sí",2061.45,"pozo",659.5,628.5,81
+"Ambato","textil","no","sí",826.89,"red municipal y río",659.1,650.87,94
+"Quito","química","sí","sí",1669.57,"río",825.7,760.33,86
+"Loja","textil","no","sí",1054.68,"red municipal y pozo y río",684.7,582.87,89
+"Cuenca","plásticos","sí","sí",378.47,"pozo y río",655,728.13,74
+"Ambato","textil","sí","sí",1506.33,"red municipal",883.8,787.63,69
+"Guayaquil","metalmecánica","sí","sí",1968.77,"pozo y río",1076.3,899.2,80
+"Loja","procesamiento de alimentos","sí","no",NA,"río",882.4,970.3,79
+"Manta","textil","sí","sí",1655.38,"red municipal",772.1,716.71,69
+"Cuenca","química","sí","no",NA,"red municipal y río",812.1,874.81,88
+"Ambato","procesamiento de alimentos","sí","no",NA,"red municipal y río",892.9,1007.37,86
+"Ambato","química","no","sí",1804.14,"red municipal y pozo y río",733.8,710.03,89
+"Loja","farmacéutica","sí","sí",1365.7,"pozo y río",733.4,720.67,88
+"Manta","textil","sí","sí",1440.23,"pozo",764.5,576.15,81
+"Quito","textil","sí","no",NA,"red municipal",1032.4,945.06,95
+"Loja","metalmecánica","sí","no",NA,"pozo",617.9,554.51,82
+"Ambato","farmacéutica","sí","sí",1838.64,"red municipal y pozo",945.4,1082.74,90
+"Manta","farmacéutica","no","no",NA,"pozo",627.5,438.22,79
+"Ambato","química","sí","no",NA,"red municipal y río",1016.1,1060.87,104
+"Cuenca","procesamiento de alimentos","no","sí",1832.31,"red municipal",755.7,732.81,87
+"Quito","procesamiento de alimentos","sí","sí",1456.77,"red municipal",725.7,743.25,75
+"Cuenca","química","sí","no",NA,"red municipal y pozo",664.9,566.13,74
+"Loja","farmacéutica","sí","sí",1748.48,"red municipal y río",888.6,953.68,85
+"Loja","metalmecánica","sí","sí",1582.79,"red municipal y pozo",925,1002.61,81
+"Loja","farmacéutica","no","no",NA,"red municipal y pozo",475.4,484.9,66
+"Cuenca","procesamiento de alimentos","sí","no",NA,"red municipal y río",761.5,693.88,86
+"Guayaquil","plásticos","sí","sí",939.6,"pozo",858.4,795.98,69
+"Cuenca","plásticos","sí","sí",1788.31,"red municipal",668.5,627.34,87
+"Quito","química","sí","sí",2473.63,"red municipal y pozo",776.6,824,86
+"Manta","procesamiento de alimentos","no","sí",1449.79,"pozo",691,622.61,80
+"Guayaquil","plásticos","sí","sí",1680.18,"pozo y río",974.2,913.23,82
+"Cuenca","plásticos","sí","no",NA,"red municipal y río",752.8,833.82,71
+"Ambato","procesamiento de alimentos","sí","sí",2078.25,"red municipal y pozo",878,890.3,86
+"Manta","metalmecánica","sí","no",NA,"pozo",864.7,570.34,78
+"Cuenca","metalmecánica","sí","sí",2003.88,"río",1084.4,991.92,102
+"Quito","textil","sí","sí",1246.13,"red municipal",832,710.82,67
+"Guayaquil","metalmecánica","no","no",NA,"pozo",682.4,569.62,84
+"Ambato","procesamiento de alimentos","sí","no",NA,"red municipal",832.5,901.21,97
+"Ambato","farmacéutica","sí","no",NA,"pozo y río",651.6,584.49,84
+"Guayaquil","metalmecánica","sí","sí",1724.46,"red municipal y pozo",904.9,783.53,72
+"Quito","procesamiento de alimentos","sí","sí",1618.98,"red municipal",853.6,894.59,92
+"Ambato","química","sí","no",NA,"red municipal",814.6,724.24,76
+"Loja","textil","sí","no",NA,"pozo y río",811,836.32,81
+"Manta","textil","sí","sí",1209.91,"red municipal",730.2,647.88,81
+"Manta","procesamiento de alimentos","sí","sí",990.22,"pozo",853.9,636.89,99
+"Manta","farmacéutica","no","sí",2368.59,"red municipal y pozo",718.6,592.36,68
+"Ambato","química","sí","sí",2094.71,"red municipal y pozo",966.1,931.03,90
+"Manta","química","no","sí",1723.42,"red municipal y pozo y río",524.8,476.9,82
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"pozo",872.4,666.13,83
+"Cuenca","farmacéutica","sí","sí",1017.13,"red municipal y pozo",784.3,811.78,91
+"Loja","farmacéutica","sí","sí",743.55,"red municipal",813.6,811.83,84
+"Quito","procesamiento de alimentos","sí","sí",1331.56,"red municipal y pozo",749,801.7,94
+"Manta","procesamiento de alimentos","sí","sí",889.08,"red municipal y pozo",750,569.14,62
+"Manta","química","sí","no",NA,"red municipal y pozo",942.8,615.2,75
+"Guayaquil","metalmecánica","sí","no",NA,"pozo",1103.8,748.55,90
+"Cuenca","farmacéutica","sí","no",NA,"pozo",975.1,1063.79,80
+"Manta","plásticos","sí","no",NA,"río",761.4,568.13,81
+"Guayaquil","farmacéutica","no","sí",1795.85,"pozo y río",545.2,449.19,97
+"Cuenca","farmacéutica","no","sí",1336.04,"río",814.7,815.04,75
+"Manta","procesamiento de alimentos","sí","sí",681.69,"red municipal",867.2,729.54,91
+"Quito","procesamiento de alimentos","sí","sí",1513.98,"red municipal",877.6,842.97,76
+"Quito","plásticos","sí","sí",1137.67,"pozo",1039.2,918.16,86
+"Guayaquil","química","sí","sí",1973.15,"red municipal y pozo",883.7,754.85,89
+"Cuenca","plásticos","sí","no",NA,"red municipal y pozo",2195.92257111827,1609.62328865001,217
+"Quito","textil","sí","sí",1431.4,"red municipal y pozo y río",801,847.05,79
+"Cuenca","metalmecánica","no","no",NA,"red municipal y río",592.2,638.82,92
+"Quito","metalmecánica","sí","sí",1627.82,"red municipal y pozo",959.8,1091.27,95
+"Ambato","procesamiento de alimentos","sí","sí",6796.44190290169,"red municipal y río",1918.69463403414,2273.93776931062,238
+"Manta","plásticos","sí","no",NA,"red municipal",703.9,587.7,90
+"Loja","metalmecánica","sí","sí",1482.28,"red municipal y pozo",962.4,1072.43,90
+"Guayaquil","metalmecánica","no","sí",1455.24,"red municipal y pozo",847.7,622.96,86
+"Ambato","plásticos","sí","sí",2077.22,"pozo",891.2,852.56,83
+"Loja","textil","sí","sí",1363.6,"red municipal y río",914,932.59,85
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"pozo",1049.4,849.11,85
+"Manta","farmacéutica","sí","no",NA,"red municipal",674,479.62,68
+"Manta","textil","sí","sí",1762.66,"red municipal y pozo",739.4,513.77,95
+"Manta","plásticos","sí","sí",1077.9,"pozo y río",901.3,654.59,89
+"Loja","química","no","no",NA,"red municipal y pozo",664.6,637.53,101
+"Quito","química","sí","no",NA,"red municipal",2181.44318599347,1956.4829976781,302
+"Manta","procesamiento de alimentos","sí","sí",2481.4,"río",760.2,588.9,84
+"Quito","química","sí","sí",1411.88,"red municipal y pozo",898.6,832.37,98
+"Ambato","metalmecánica","sí","no",NA,"pozo y río",936.1,1074.9,83
+"Ambato","metalmecánica","sí","sí",1405.91,"pozo y río",754.7,798.71,75
+"Quito","textil","sí","sí",2000.2,"red municipal",988.8,1038.02,74
+"Manta","farmacéutica","sí","sí",2326.87,"pozo y río",911.5,806.86,103
+"Guayaquil","metalmecánica","no","sí",1447.72,"red municipal",642,562.56,77
+"Cuenca","procesamiento de alimentos","no","sí",1926.13,"red municipal y pozo",527.8,456.11,80
+"Cuenca","farmacéutica","sí","sí",2131.03,"red municipal",899.4,991.95,96
+"Quito","química","no","no",NA,"pozo",666.7,762.95,88
+"Guayaquil","plásticos","sí","sí",2092.93,"red municipal y río",892.6,728.93,79
+"Ambato","plásticos","sí","sí",1527.63,"río",1057.7,1084.24,90
+"Loja","textil","sí","no",NA,"pozo y río",876.3,951.64,76
+"Manta","metalmecánica","sí","no",NA,"red municipal y río",896,685.69,82
+"Ambato","procesamiento de alimentos","no","sí",855.99,"pozo",1070.3,1106.93,82
+"Manta","textil","sí","sí",861.75,"red municipal",862.6,734.49,86
+"Ambato","química","no","sí",2068.24,"red municipal",872.6,931.73,97
+"Ambato","farmacéutica","sí","sí",1840.23,"red municipal y pozo y río",1039.1,950.26,88
+"Manta","metalmecánica","sí","sí",1508.88,"red municipal y pozo",993.6,678.33,82
+"Manta","metalmecánica","sí","no",NA,"red municipal y pozo",859.1,698.76,94
+"Loja","química","no","sí",1614.29,"red municipal",757.2,763,90
+"Guayaquil","textil","sí","no",NA,"red municipal y río",663,469.66,76
+"Guayaquil","farmacéutica","sí","sí",1106.07,"pozo",781.3,594.33,90
+"Loja","procesamiento de alimentos","sí","no",NA,"red municipal y río",925,938.64,90
+"Loja","plásticos","sí","sí",1047.66,"pozo y río",1088.8,1098.51,92
+"Guayaquil","procesamiento de alimentos","no","sí",1271.43,"pozo y río",458.9,343,75
+"Loja","farmacéutica","sí","sí",1154.27,"pozo y río",788.9,891.53,102
+"Quito","textil","no","no",NA,"red municipal",765.5,697.7,74
+"Ambato","metalmecánica","sí","sí",1134.89,"pozo",940.7,884.03,91
+"Guayaquil","farmacéutica","sí","sí",1688.84,"pozo",827.7,578.46,78
+"Cuenca","metalmecánica","no","sí",1067.68,"pozo",421,482.02,68
+"Loja","procesamiento de alimentos","no","sí",983.03,"río",579.3,572.74,74
+"Manta","procesamiento de alimentos","sí","sí",1949.13,"red municipal",1047.1,884.07,101
+"Guayaquil","plásticos","sí","no",NA,"red municipal",1012.8,688.72,85
+"Cuenca","farmacéutica","sí","no",NA,"red municipal y río",1061.7,1044.2,87
+"Ambato","plásticos","no","no",NA,"red municipal",593.5,620.93,77
+"Cuenca","metalmecánica","sí","sí",1779.21,"red municipal",647.3,557.75,86
+"Manta","química","sí","no",NA,"red municipal y río",612.2,497.56,87
+"Manta","química","no","sí",1261.47,"red municipal y pozo",741.8,487.47,84
+"Ambato","química","sí","sí",1982.6,"pozo",660.1,578.19,79
+"Guayaquil","metalmecánica","sí","no",NA,"pozo",951.1,823.08,80
+"Ambato","farmacéutica","sí","sí",2034.27,"red municipal",1055.7,1083.56,79
+"Loja","metalmecánica","sí","sí",622.78,"red municipal",740.5,840.09,80
+"Loja","metalmecánica","sí","sí",1654.64,"red municipal",834.8,848.07,101
+"Cuenca","plásticos","sí","sí",1768.39,"río",830.6,916.35,94
+"Ambato","metalmecánica","sí","sí",857.98,"red municipal y río",844.8,721.46,81
+"Manta","química","no","no",NA,"pozo",677.5,541.69,101
+"Quito","plásticos","sí","no",NA,"red municipal",853.7,823.12,82
+"Cuenca","metalmecánica","no","no",NA,"pozo",606.8,669.84,91
+"Manta","metalmecánica","sí","no",NA,"red municipal y pozo",622.5,468.61,83
+"Cuenca","plásticos","no","sí",1748.06,"pozo",820.8,705.99,103
+"Quito","procesamiento de alimentos","sí","no",NA,"red municipal",1125.6,1064.02,86
+"Cuenca","metalmecánica","sí","no",NA,"red municipal y pozo",997.7,925.02,70
+"Ambato","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",753,683.62,77
+"Guayaquil","farmacéutica","sí","no",NA,"pozo y río",967.8,896.47,93
+"Manta","química","sí","sí",1901.66,"red municipal",970,745.5,100
+"Quito","química","sí","no",NA,"red municipal",968.9,945.17,77
+"Ambato","procesamiento de alimentos","sí","sí",2919.65735219631,"río",2081.56358148186,1751.91524266747,280
+"Manta","procesamiento de alimentos","sí","no",NA,"pozo",908.8,802.03,89
+"Manta","procesamiento de alimentos","sí","sí",661.27,"red municipal",890.7,763.51,81
+"Ambato","farmacéutica","sí","no",NA,"red municipal y pozo",810.4,811.54,86
+"Loja","metalmecánica","sí","sí",1469.79,"red municipal",783.2,863.8,88
+"Quito","textil","sí","sí",1734.72,"pozo",990.6,892.49,75
+"Ambato","plásticos","sí","no",NA,"pozo y río",856.8,794.04,79
+"Ambato","textil","sí","no",NA,"pozo y río",858.4,735.65,95
+"Quito","química","sí","no",NA,"red municipal y río",862.3,742.36,66
+"Cuenca","procesamiento de alimentos","sí","sí",2077.59,"red municipal y pozo",1047.9,1045.86,79
+"Quito","farmacéutica","sí","no",NA,"red municipal",880.4,935.25,79
+"Manta","procesamiento de alimentos","sí","no",NA,"red municipal y río",861.3,601.4,78
+"Manta","procesamiento de alimentos","sí","no",NA,"red municipal",1658.38632386217,1176.54708807612,360
+"Cuenca","plásticos","sí","no",NA,"río",866.2,897.42,76
+"Cuenca","textil","no","no",NA,"río",387.4,424.47,90
+"Manta","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",750.6,670.07,89
+"Loja","plásticos","sí","sí",1193.07,"red municipal",819.6,754.67,108
+"Manta","textil","sí","sí",965.8,"red municipal",866.9,758.21,87
+"Quito","farmacéutica","sí","sí",1185.82,"pozo",872.3,791.47,80
+"Loja","farmacéutica","sí","no",NA,"pozo",613.7,554.76,93
+"Manta","farmacéutica","sí","sí",1186.53,"pozo y río",919.5,618.11,75
+"Manta","metalmecánica","sí","sí",1725.51,"red municipal y río",796.4,539.91,103
+"Guayaquil","química","sí","sí",1296.53,"red municipal",807.7,726.56,82
+"Loja","procesamiento de alimentos","sí","sí",2365.4,"pozo",964.6,873.03,110
+"Loja","procesamiento de alimentos","sí","no",NA,"red municipal y río",891.8,780.99,92
+"Cuenca","textil","sí","sí",1715.41,"pozo",896.2,991.63,97
+"Loja","plásticos","sí","no",NA,"red municipal",1265.9,1391.86,76
+"Loja","plásticos","sí","sí",1365.83,"red municipal y río",867.2,787.55,83
+"Cuenca","metalmecánica","sí","sí",2373.84,"pozo y río",1107.5,1198.42,92
+"Loja","metalmecánica","sí","no",NA,"río",973.3,1106.57,96
+"Guayaquil","metalmecánica","no","sí",886.66,"red municipal y pozo y río",485.5,404.32,77
+"Cuenca","farmacéutica","sí","sí",1979.15,"río",862.7,977.81,82
+"Loja","procesamiento de alimentos","sí","sí",1546.01,"red municipal",990.6,1133.62,68
+"Quito","procesamiento de alimentos","sí","sí",1715.89,"red municipal",689.5,610.87,69
+"Quito","textil","no","sí",4039.26726624301,"pozo",1663.92945473872,1454.43462908357,230
+"Ambato","procesamiento de alimentos","sí","no",NA,"pozo",929.2,858.67,78
+"Ambato","textil","sí","sí",1490.93,"red municipal",950,988.41,72
+"Ambato","farmacéutica","no","no",NA,"red municipal y río",766.9,755.23,92
+"Loja","plásticos","sí","no",NA,"red municipal",1211.4,1051.15,101
+"Manta","procesamiento de alimentos","sí","sí",1959.45,"red municipal y pozo",952.1,757.02,86
+"Guayaquil","química","sí","no",NA,"red municipal",936.3,859.72,103
+"Guayaquil","farmacéutica","sí","no",NA,"pozo y río",1167.7,885.61,86
+"Ambato","farmacéutica","sí","sí",639.69,"red municipal y pozo",865.6,916.04,74
+"Loja","plásticos","sí","sí",2214.33,"red municipal",1049.9,931.36,89
+"Quito","metalmecánica","sí","no",NA,"red municipal",955.2,1063.94,82
+"Ambato","plásticos","no","sí",1139.4,"red municipal y río",593.3,530.9,99
+"Manta","plásticos","sí","sí",1658.15,"red municipal y pozo",787.5,515.46,82
+"Loja","farmacéutica","no","sí",536.98,"red municipal y río",565.6,619.29,75
+"Quito","plásticos","sí","sí",1547.52,"red municipal y río",642.4,632.9,81
+"Cuenca","plásticos","sí","sí",981.73,"río",915.1,948.54,85
+"Guayaquil","farmacéutica","sí","sí",1336.76,"pozo y río",1033.3,898.31,88
+"Manta","metalmecánica","no","sí",1436.38,"red municipal",468.8,318.74,83
+"Manta","farmacéutica","sí","sí",2104.08,"red municipal y pozo",927.2,787.74,103
+"Loja","textil","no","sí",1696.95,"río",644.9,579.21,77
+"Cuenca","farmacéutica","sí","sí",1524.12,"pozo",1072.9,1023.87,80
+"Cuenca","metalmecánica","no","no",NA,"red municipal",736.3,803.64,91
+"Loja","textil","sí","no",NA,"red municipal",1007.1,892.47,82
+"Guayaquil","farmacéutica","sí","no",NA,"red municipal y pozo y río",851.3,612.6,81
+"Quito","plásticos","sí","no",NA,"pozo y río",964.3,1074.93,99
+"Quito","farmacéutica","sí","no",NA,"pozo",908.7,885.08,69
+"Guayaquil","textil","sí","no",NA,"red municipal",782.8,677.35,89
+"Guayaquil","plásticos","sí","sí",1070.99,"red municipal y río",1102.5,844.38,91
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"red municipal y río",898.8,597.55,81
+"Ambato","textil","sí","sí",799.31,"red municipal",794.3,739.72,74
+"Manta","procesamiento de alimentos","no","no",NA,"río",602.8,509.94,92
+"Guayaquil","farmacéutica","no","no",NA,"red municipal",573.7,404.32,73
+"Cuenca","plásticos","sí","sí",1644.55,"red municipal y pozo",942.8,846.2,89
+"Ambato","metalmecánica","sí","sí",755.23,"pozo",987.1,963.73,83
+"Cuenca","procesamiento de alimentos","no","sí",1846.22,"pozo y río",502,496.5,95
+"Guayaquil","metalmecánica","sí","sí",1291.28,"pozo",901.4,614.87,65
+"Manta","farmacéutica","sí","sí",1215.17,"red municipal",923.6,630.77,78
+"Cuenca","textil","sí","no",NA,"red municipal",1032.6,1179.59,85
+"Manta","plásticos","sí","sí",2397.33,"red municipal y pozo",1103.9,730.94,85
+"Loja","plásticos","sí","no",NA,"pozo y río",876.8,768.57,85
+"Quito","química","sí","sí",2030.41,"red municipal",908.6,888.64,85
+"Quito","química","sí","no",NA,"pozo y río",738.7,683.28,91
+"Loja","química","no","sí",1778.88,"red municipal",668.6,761.56,76
+"Quito","metalmecánica","sí","no",NA,"pozo y río",965.7,950.44,78
+"Cuenca","metalmecánica","no","sí",1319.19,"red municipal y pozo",726.3,720.91,83
+"Loja","procesamiento de alimentos","sí","sí",479.75,"pozo",1051.4,1163.64,83
+"Guayaquil","textil","sí","sí",2593.7,"red municipal",838.4,579.01,79
+"Manta","química","sí","no",NA,"red municipal y pozo",823,677.15,88
+"Ambato","procesamiento de alimentos","sí","sí",2145.44,"río",986.5,1082.35,68
+"Quito","química","sí","no",NA,"red municipal",749.7,676.85,83
+"Ambato","metalmecánica","sí","no",NA,"red municipal y pozo",920.5,1052,92
+"Cuenca","farmacéutica","sí","sí",1458.97,"red municipal y pozo y río",871.5,950.12,86
+"Manta","farmacéutica","sí","sí",1055.09,"río",919.4,740.05,78
+"Manta","farmacéutica","sí","sí",1060.47,"red municipal y pozo",933.7,684.06,71
+"Guayaquil","procesamiento de alimentos","sí","sí",1573.9,"red municipal",1006.1,784.08,91
+"Manta","metalmecánica","sí","sí",1046.91,"red municipal y río",886.8,754.68,80
+"Quito","farmacéutica","sí","no",NA,"red municipal",876,804.86,73
+"Manta","procesamiento de alimentos","no","sí",1879.1,"río",559.6,399.94,95
+"Ambato","farmacéutica","no","sí",2042.42,"red municipal y pozo",819.7,806.47,80
+"Quito","farmacéutica","no","sí",2461.39,"red municipal y pozo",579.8,626.56,81
+"Manta","química","sí","no",NA,"pozo",767.3,672.89,76
+"Quito","textil","sí","no",NA,"pozo",976.1,879.34,74
+"Loja","plásticos","sí","sí",1866.38,"pozo",834.6,749.46,75
+"Ambato","textil","sí","sí",1334.42,"red municipal",878.2,952.97,81
+"Guayaquil","procesamiento de alimentos","sí","sí",1617.6,"red municipal y río",906.4,612.92,92
+"Manta","procesamiento de alimentos","sí","sí",1613.29,"red municipal y río",983.8,909.63,77
+"Quito","química","no","sí",1859.27,"pozo",597.4,644.61,88
+"Loja","metalmecánica","sí","no",NA,"red municipal",834.7,953.08,86
+"Loja","farmacéutica","sí","sí",1547.48,"red municipal y pozo",1042.6,1009.35,82
+"Manta","química","sí","sí",952.3,"red municipal y río",905.3,636.08,85
+"Manta","farmacéutica","sí","sí",1375.86,"pozo",842.9,648.82,85
+"Ambato","farmacéutica","no","no",NA,"red municipal",576.9,619.71,88
+"Ambato","plásticos","sí","sí",927.19,"red municipal",996.3,1034.42,79
+"Manta","procesamiento de alimentos","no","no",NA,"red municipal y pozo",640.3,523.47,90
+"Manta","textil","sí","no",NA,"red municipal y pozo",797.8,667.55,96
+"Quito","farmacéutica","sí","sí",1303.3,"red municipal y río",907.2,920.61,80
+"Cuenca","procesamiento de alimentos","sí","no",NA,"red municipal",1226.5,1078.57,87
+"Cuenca","metalmecánica","sí","sí",605.69,"pozo",833,943.21,90
+"Quito","textil","sí","sí",1970.56,"red municipal y pozo y río",925,923.44,73
+"Loja","metalmecánica","sí","no",NA,"pozo",955.8,953.4,110
+"Guayaquil","metalmecánica","sí","sí",1107.1,"red municipal",842.4,694.6,107
+"Guayaquil","plásticos","sí","no",NA,"pozo y río",889.5,786.25,95
+"Guayaquil","textil","sí","no",NA,"red municipal y río",1045.2,750.56,71
+"Cuenca","química","sí","no",NA,"pozo",795.3,717.43,88
+"Guayaquil","química","no","sí",1396.94,"red municipal y pozo y río",625.6,531.6,81
+"Quito","química","sí","no",NA,"red municipal",788.3,880.65,85
+"Cuenca","farmacéutica","sí","sí",1040.69,"pozo",882.6,909.62,83
+"Cuenca","textil","sí","sí",1506.14,"red municipal",690.9,677.79,97
+"Loja","metalmecánica","sí","sí",1667.88,"red municipal",676.5,763.13,73
+"Quito","farmacéutica","sí","sí",2545.61,"red municipal",850.3,904.42,90
+"Manta","textil","sí","sí",2244.5,"red municipal",714.2,510.12,69
+"Cuenca","plásticos","sí","no",NA,"red municipal",814.6,864.04,88
+"Loja","procesamiento de alimentos","sí","no",NA,"red municipal y río",1084,1198.77,78
+"Quito","textil","sí","sí",1963.95,"pozo",864.7,897.83,89
+"Ambato","textil","sí","no",NA,"red municipal y río",820.5,715.38,86
+"Loja","textil","sí","sí",1611.57,"red municipal",978.2,1107.22,80
+"Quito","plásticos","no","sí",1888.26,"red municipal y río",483.3,436.64,79
+"Ambato","textil","sí","sí",1420.83,"red municipal",766.8,668.86,81
+"Cuenca","procesamiento de alimentos","sí","no",NA,"pozo",2007.20870537683,1582.46553191494,305
+"Quito","metalmecánica","sí","no",NA,"río",720.5,632.83,78
+"Ambato","farmacéutica","sí","no",NA,"red municipal y río",2179.81856739367,1972.13332311291,256
+"Quito","química","sí","sí",893.07,"pozo",895.6,954.41,85
+"Ambato","metalmecánica","sí","sí",1099.74,"red municipal y pozo",699,787.34,72
+"Manta","procesamiento de alimentos","sí","sí",1550.23,"pozo",633,508.76,92
+"Manta","textil","sí","sí",1306.77,"pozo",884.5,717.02,75
+"Ambato","plásticos","sí","sí",1917.04,"pozo y río",899.4,1022.08,90
+"Quito","procesamiento de alimentos","sí","no",NA,"red municipal",880.2,889.77,68
+"Loja","textil","no","no",NA,"pozo",841,842.85,88
+"Loja","química","sí","no",NA,"pozo",903.1,966.14,88
+"Loja","farmacéutica","sí","no",NA,"red municipal y pozo",706,720.57,68
+"Guayaquil","metalmecánica","sí","no",NA,"pozo",969.6,775.84,70
+"Loja","procesamiento de alimentos","sí","sí",1309.83,"río",937.1,1022.55,86
+"Manta","química","sí","sí",2635.7,"red municipal y pozo",796,568.31,98
+"Quito","plásticos","sí","sí",1743.8,"red municipal y pozo",940.6,856.27,84
+"Cuenca","textil","sí","no",NA,"red municipal",819.4,754.37,102
+"Guayaquil","plásticos","sí","sí",1267.82,"río",802.6,727.28,79
+"Manta","textil","sí","no",NA,"pozo",1009.5,807.66,79
+"Guayaquil","metalmecánica","no","no",NA,"pozo",618.8,582.48,101
+"Manta","metalmecánica","no","no",NA,"red municipal y pozo",667.4,490.81,91
+"Guayaquil","farmacéutica","sí","sí",860.58,"pozo",754.4,536.39,87
+"Guayaquil","farmacéutica","sí","sí",1405.52,"red municipal y pozo y río",591.9,511.65,86
+"Quito","química","sí","sí",1403.7,"río",851.4,763.23,87
+"Ambato","farmacéutica","sí","sí",3406.76192344075,"pozo y río",2354.91465730872,2203.28564765558,228
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"red municipal y río",859.6,612.25,83
+"Cuenca","plásticos","sí","sí",864.55,"red municipal",796.2,835.41,92
+"Ambato","metalmecánica","sí","sí",2498.1,"red municipal",863.2,860.7,94
+"Manta","farmacéutica","sí","no",NA,"red municipal",866.1,680.88,93
+"Ambato","química","sí","no",NA,"red municipal y río",776.2,772.32,83
+"Cuenca","plásticos","sí","no",NA,"red municipal y río",989.8,897.11,85
+"Ambato","química","sí","no",NA,"río",938.5,825.51,78
+"Ambato","procesamiento de alimentos","sí","sí",1703.25,"red municipal",784.2,864.27,83
+"Cuenca","química","sí","sí",2156.32,"pozo",849.8,750.41,88
+"Quito","procesamiento de alimentos","no","no",NA,"red municipal",2482.33745834532,1925.10677928933,284
+"Manta","metalmecánica","sí","sí",849.44,"red municipal",1043,787.06,87
+"Cuenca","química","sí","sí",2399.73,"río",829,930.85,80
+"Cuenca","metalmecánica","sí","sí",2422.91,"río",857.9,742.41,91
+"Loja","procesamiento de alimentos","no","no",NA,"red municipal",571.1,615.2,74
+"Ambato","textil","no","sí",1108.73,"pozo y río",648.1,640.27,92
+"Manta","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",828.7,547.26,99
+"Loja","textil","sí","no",NA,"red municipal",988.8,1065.37,80
+"Manta","textil","no","no",NA,"red municipal y pozo",556.8,520.26,73
+"Loja","plásticos","sí","sí",2453.65,"red municipal y pozo",1034,913.34,79
+"Guayaquil","procesamiento de alimentos","sí","sí",776.86,"red municipal",789.1,690.14,92
+"Manta","textil","sí","sí",1484.69,"red municipal",781.7,550.55,84
+"Loja","metalmecánica","sí","no",NA,"pozo",799.1,848.44,85
+"Ambato","textil","no","sí",640.35,"red municipal",628.3,657.16,74
+"Loja","farmacéutica","no","no",NA,"pozo y río",954.5,896.75,83
+"Manta","textil","sí","sí",1333.08,"río",884.2,604.75,101
+"Loja","procesamiento de alimentos","no","sí",1114.04,"pozo y río",765,863.86,84
+"Loja","procesamiento de alimentos","sí","sí",1731.04,"red municipal",834,813.46,88
+"Ambato","plásticos","sí","sí",1693.14,"río",929.9,1001.28,98
+"Manta","textil","sí","no",NA,"red municipal y pozo",794,563.03,63
+"Loja","farmacéutica","sí","no",NA,"red municipal",1042.2,1186.52,85
+"Ambato","plásticos","sí","sí",1142.18,"río",966.3,915.57,92
+"Cuenca","química","sí","sí",1153.66,"red municipal",735.3,632.53,78
+"Loja","metalmecánica","no","no",NA,"red municipal y río",499.3,434.49,77
+"Manta","farmacéutica","sí","sí",2212.24,"red municipal y pozo y río",965.8,663.25,88
+"Quito","farmacéutica","sí","sí",1772.57,"río",987.1,840.71,89
+"Ambato","procesamiento de alimentos","no","sí",1447.65,"red municipal y río",859.8,977.31,87
+"Loja","metalmecánica","sí","sí",2466.43,"red municipal",907.6,793.14,95
+"Quito","química","sí","sí",1803.6,"red municipal",787.1,769.96,97
+"Ambato","metalmecánica","sí","no",NA,"red municipal",682.3,675.11,76
+"Loja","química","sí","no",NA,"red municipal",891.3,844.31,88
+"Quito","plásticos","sí","sí",881,"red municipal y pozo",1105.5,1054.46,86
+"Ambato","procesamiento de alimentos","sí","no",NA,"red municipal",666,594.64,77
+"Ambato","plásticos","sí","sí",368.02,"red municipal y río",743.2,640.06,81
+"Quito","plásticos","sí","sí",772.47,"pozo y río",911,970.72,96
+"Loja","textil","sí","sí",1301.99,"red municipal",1033.6,906.15,85
+"Ambato","farmacéutica","no","sí",750.19,"red municipal",443.1,489.06,77
+"Guayaquil","química","sí","sí",1640.52,"red municipal",809.4,713.76,77
+"Loja","textil","no","sí",711.06,"red municipal",692.4,635.87,96
+"Manta","procesamiento de alimentos","sí","sí",1935.49,"pozo",939.4,891.27,79
+"Guayaquil","plásticos","sí","sí",1704.49,"pozo",1014.1,836.56,90
+"Loja","procesamiento de alimentos","no","sí",1022.97,"red municipal y río",428.9,430.98,71
+"Loja","procesamiento de alimentos","sí","sí",1084.53,"red municipal y pozo",706.8,667.6,84
+"Ambato","química","sí","sí",1385.7,"red municipal y pozo",763.1,792.04,74
+"Ambato","farmacéutica","no","sí",911.41,"pozo y río",781.7,724.62,108
+"Manta","química","sí","no",NA,"pozo",724.2,682.09,81
+"Cuenca","textil","sí","sí",4001.20419303087,"red municipal y pozo",1846.24890628189,1290.09056196231,185
+"Loja","textil","sí","no",NA,"red municipal",924.8,963.93,83
+"Quito","procesamiento de alimentos","sí","sí",1813.24,"pozo y río",960.5,1030.06,77
+"Quito","procesamiento de alimentos","no","sí",1947.18,"pozo y río",678.8,612.46,80
+"Cuenca","procesamiento de alimentos","sí","no",NA,"red municipal y río",1014.8,1014.24,84
+"Loja","metalmecánica","sí","no",NA,"red municipal y pozo",764.7,868.35,73
+"Guayaquil","textil","sí","no",NA,"red municipal",927.5,874.27,91
+"Cuenca","farmacéutica","no","no",NA,"red municipal y pozo",896.4,1019.93,74
+"Guayaquil","farmacéutica","sí","no",NA,"pozo",656.7,502.61,96
+"Ambato","metalmecánica","no","sí",1286.28,"río",921,797.33,81
+"Quito","farmacéutica","sí","sí",2088.84,"pozo",934.9,1045.21,80
+"Cuenca","plásticos","sí","no",NA,"pozo y río",676.8,583.94,69
+"Loja","metalmecánica","sí","sí",2089.73,"red municipal y río",821.6,818.94,79
+"Quito","metalmecánica","sí","no",NA,"pozo y río",878.2,851.27,88
+"Manta","metalmecánica","sí","no",NA,"red municipal y pozo",661.2,443.44,74
+"Cuenca","plásticos","sí","sí",1952.42,"red municipal y pozo",999,1022.15,77
+"Manta","química","sí","sí",1405.54,"río",867.7,775.52,84
+"Ambato","química","sí","no",NA,"red municipal y río",806.3,716.22,83
+"Loja","textil","sí","no",NA,"pozo",1079.9,1149.18,93
+"Cuenca","química","sí","sí",1549.21,"red municipal",978,1067.73,82
+"Cuenca","farmacéutica","no","no",NA,"red municipal",666,588.45,87
+"Cuenca","química","no","no",NA,"pozo y río",784.6,788.34,93
+"Ambato","procesamiento de alimentos","sí","sí",1340.92,"red municipal y pozo y río",862.6,789.28,99
+"Quito","química","sí","sí",1395.09,"red municipal",623.2,636.65,87
+"Guayaquil","textil","sí","sí",848.2,"red municipal y río",863.8,798.68,80
+"Quito","plásticos","sí","sí",2136.42,"río",753.5,673.28,77
+"Guayaquil","farmacéutica","sí","sí",2335.13,"pozo y río",576.6,530.43,83
+"Manta","textil","no","no",NA,"río",645.2,560.54,97
+"Loja","farmacéutica","sí","no",NA,"río",993,998.77,89
+"Loja","farmacéutica","sí","no",NA,"red municipal",829,943,89
+"Guayaquil","metalmecánica","sí","sí",1104.81,"pozo y río",804.4,719.63,71
+"Quito","química","no","sí",662.01,"red municipal",684.6,683.38,81
+"Manta","plásticos","sí","sí",2375.23,"red municipal y pozo",890.5,685.29,74
+"Guayaquil","farmacéutica","sí","no",NA,"red municipal",707.9,567.77,92
+"Manta","textil","sí","no",NA,"pozo y río",867.2,677.85,76
+"Ambato","metalmecánica","sí","sí",1394.07,"red municipal y pozo",988.1,1049.49,84
+"Loja","química","sí","no",NA,"red municipal",664.6,731.32,76
+"Loja","plásticos","sí","sí",1595.51,"red municipal",882.1,752.73,85
+"Loja","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",834.9,895.16,65
+"Guayaquil","textil","no","sí",1780.27,"pozo y río",706.5,670.81,74
+"Ambato","procesamiento de alimentos","no","sí",1452.38,"red municipal y pozo",433.5,451.27,59
+"Quito","procesamiento de alimentos","no","sí",1905.25,"red municipal y pozo",748.9,849.2,82
+"Guayaquil","química","sí","no",NA,"río",753.8,677.22,94
+"Loja","química","sí","no",NA,"pozo",2446.62472906737,2042.77506601207,222
+"Quito","metalmecánica","sí","no",NA,"red municipal",1598.92089637248,1640.34837414621,328
+"Quito","textil","sí","sí",1499.93,"red municipal y río",694.7,714.63,91
+"Loja","metalmecánica","sí","sí",662.46,"pozo",1084.3,1128.31,75
+"Guayaquil","química","no","no",NA,"red municipal y pozo",667.9,518.83,94
+"Loja","textil","sí","sí",2318.56,"red municipal y pozo",812.1,709.46,102
+"Manta","plásticos","sí","sí",1193.25,"red municipal",962.8,912.48,86
+"Ambato","química","sí","sí",1579.55,"red municipal y pozo y río",912.8,951.39,82
+"Manta","textil","sí","sí",1010.42,"red municipal",948.1,696.19,86
+"Manta","metalmecánica","sí","sí",1552.76,"red municipal y pozo y río",889.8,735.86,91
+"Ambato","farmacéutica","sí","no",NA,"red municipal y río",686.5,745.61,79
+"Cuenca","metalmecánica","sí","no",NA,"pozo y río",1032,937.16,113
+"Guayaquil","textil","sí","no",NA,"pozo",797.8,613.69,92
+"Loja","plásticos","sí","no",NA,"red municipal",1045.8,1086.91,83
+"Guayaquil","química","sí","sí",1612.36,"red municipal y pozo",833.7,624.19,75
+"Cuenca","procesamiento de alimentos","no","no",NA,"red municipal",550.5,606.38,68
+"Manta","textil","sí","sí",1303.4,"red municipal y río",999.8,776.6,92
+"Loja","textil","sí","no",NA,"pozo",1529.08385792782,1357.1206300034,300
+"Loja","metalmecánica","no","no",NA,"red municipal",694.1,640.3,76
+"Cuenca","textil","sí","sí",2063.41,"red municipal",953.2,890.95,91
+"Quito","procesamiento de alimentos","no","no",NA,"pozo",779.5,803.78,99
+"Quito","textil","no","sí",2485.53,"río",289.2,307.66,74
+"Manta","metalmecánica","sí","sí",1033.83,"red municipal",968,726.65,98
+"Loja","metalmecánica","sí","no",NA,"red municipal y pozo",806.4,689.24,98
+"Quito","farmacéutica","sí","no",NA,"red municipal",834.9,811.29,92
+"Guayaquil","metalmecánica","sí","sí",959.52,"red municipal",988.8,870.45,75
+"Manta","farmacéutica","sí","sí",1305.53,"red municipal",991.1,782.9,92
+"Ambato","procesamiento de alimentos","no","sí",682.79,"pozo y río",926.7,903.85,75
+"Ambato","farmacéutica","sí","sí",899.95,"red municipal y pozo",1133.8,1090.73,100
+"Cuenca","procesamiento de alimentos","sí","no",NA,"red municipal y pozo",838.6,945.34,95
+"Loja","procesamiento de alimentos","sí","no",NA,"red municipal y pozo y río",738.2,705.8,79
+"Loja","procesamiento de alimentos","no","sí",1974.33,"pozo",724.8,624.6,80
+"Ambato","procesamiento de alimentos","sí","sí",1703.51,"red municipal y río",909.8,1003.71,87
+"Cuenca","plásticos","sí","no",NA,"río",1370.38018642762,1459.9869919378,383
+"Manta","metalmecánica","sí","no",NA,"red municipal y pozo",924.8,798.87,76
+"Ambato","plásticos","no","sí",2387.16,"pozo",857.3,759.14,83
+"Ambato","procesamiento de alimentos","sí","no",NA,"red municipal",986,1062.46,93
+"Loja","plásticos","sí","no",NA,"pozo",992.8,1035.11,75
+"Quito","metalmecánica","sí","sí",1405.15,"pozo y río",774.2,781.75,61
+"Ambato","farmacéutica","sí","no",NA,"río",768.1,705.38,73
+"Cuenca","metalmecánica","no","no",NA,"río",634.8,576.63,89
+"Cuenca","textil","sí","no",NA,"río",948.2,850.25,73
+"Manta","farmacéutica","no","sí",735.44,"red municipal",460.1,322.44,96
+"Ambato","metalmecánica","sí","sí",1695.23,"red municipal y pozo",828.4,773.96,101
+"Cuenca","procesamiento de alimentos","sí","no",NA,"pozo",887.1,1004.7,71
+"Ambato","química","sí","sí",1673.99,"red municipal y pozo",806.4,810.54,78
+"Quito","textil","sí","sí",1022.92,"red municipal y pozo",751,762.91,84
+"Loja","farmacéutica","sí","no",NA,"red municipal",987.4,1107.84,100
+"Manta","farmacéutica","sí","no",NA,"red municipal",990.9,907.36,85
+"Quito","farmacéutica","sí","no",NA,"red municipal",812.9,797.94,79
+"Ambato","química","sí","sí",1483.34,"pozo",987.5,1133.48,90
+"Cuenca","farmacéutica","no","sí",576.92,"río",626.6,639.32,83
+"Ambato","metalmecánica","sí","sí",1239.67,"red municipal",789.9,761.56,82
+"Cuenca","metalmecánica","sí","no",NA,"red municipal y río",847.4,755.41,84
+"Cuenca","farmacéutica","sí","sí",1344.21,"red municipal y pozo",738.2,736.14,85
+"Loja","textil","sí","sí",1144.66,"río",837.3,712.3,76
+"Manta","textil","sí","no",NA,"red municipal",975.7,815.05,87
+"Manta","metalmecánica","sí","sí",1869.72,"red municipal",479.8,387.58,91
+"Quito","metalmecánica","sí","sí",1745.66,"red municipal",936.2,995.06,79
+"Manta","metalmecánica","sí","no",NA,"red municipal y pozo y río",914.8,704.13,93
+"Manta","metalmecánica","sí","no",NA,"red municipal",772.2,584.35,72
+"Ambato","farmacéutica","sí","sí",3045.81152468002,"red municipal y río",2031.08113954202,1714.83349637877,277
+"Loja","plásticos","sí","sí",1039.76,"pozo",840.5,958.25,76
+"Guayaquil","plásticos","no","sí",1974.2,"red municipal",670.1,468.95,84
+"Cuenca","procesamiento de alimentos","sí","sí",866.08,"red municipal",915.5,903.43,89
+"Quito","textil","sí","sí",2419.71,"red municipal",1003.1,908.64,88
+"Loja","metalmecánica","no","no",NA,"red municipal y río",466.2,532.59,78
+"Loja","metalmecánica","no","no",NA,"red municipal y pozo y río",743.4,695.06,83
+"Ambato","química","sí","sí",1316.25,"red municipal",1055.9,982.93,99
+"Guayaquil","farmacéutica","sí","no",NA,"red municipal y río",749.7,514.7,92
+"Ambato","metalmecánica","sí","no",NA,"red municipal",949.7,867.72,71
+"Loja","procesamiento de alimentos","sí","no",NA,"pozo y río",669.8,686.54,69
+"Manta","procesamiento de alimentos","sí","sí",2343.53,"pozo",922.5,765.75,80
+"Guayaquil","metalmecánica","no","sí",1623.83,"red municipal",816.3,573.34,89
+"Loja","plásticos","sí","sí",1646.53,"pozo",901.3,892.55,76
+"Cuenca","química","sí","sí",1389.82,"pozo",965.8,1050.64,93
+"Ambato","plásticos","sí","no",NA,"pozo",763.2,785.85,72
+"Loja","metalmecánica","sí","no",NA,"pozo",933.9,803.89,62
+"Manta","metalmecánica","sí","sí",4879.48978182524,"río",1937.16780696218,1518.68635919312,255
+"Cuenca","plásticos","sí","no",NA,"red municipal y río",760.2,728.16,96
+"Guayaquil","textil","sí","sí",2797.24,"red municipal",810.3,583.84,89
+"Quito","procesamiento de alimentos","no","no",NA,"pozo",446.7,498.6,82
+"Loja","metalmecánica","sí","no",NA,"red municipal y río",888.4,929.96,80
+"Manta","textil","sí","sí",2079.08,"red municipal y río",835.5,582.53,84
+"Guayaquil","procesamiento de alimentos","sí","sí",2383.19,"red municipal",1011,861.75,93
+"Cuenca","metalmecánica","sí","sí",1315.95,"red municipal",983.8,863.94,82
+"Guayaquil","química","sí","sí",894.01,"pozo y río",961.1,901.24,78
+"Ambato","plásticos","sí","sí",823.87,"red municipal y río",907.1,821.9,72
+"Cuenca","textil","no","no",NA,"red municipal y río",556.3,512.72,81
+"Quito","plásticos","sí","sí",1741.82,"red municipal y pozo",1001,1084.75,79
+"Loja","metalmecánica","sí","no",NA,"río",995.4,1059.57,84
+"Loja","plásticos","sí","sí",1801.18,"red municipal",922,970.81,80
+"Quito","farmacéutica","sí","no",NA,"río",1020.2,895.93,93
+"Loja","metalmecánica","sí","no",NA,"red municipal y río",1021.5,871.33,91
+"Cuenca","textil","sí","sí",1549.26,"red municipal",1048.2,1099.02,91
+"Guayaquil","textil","sí","sí",1790.21,"red municipal y río",1007.8,887.11,78
+"Ambato","química","no","no",NA,"río",798.6,806.69,79
+"Cuenca","química","sí","sí",1604.54,"pozo",736.7,802.18,94
+"Quito","metalmecánica","sí","sí",1390.33,"red municipal y río",1042.2,1068.08,93
+"Ambato","plásticos","sí","no",NA,"red municipal y pozo",1024.1,989.18,102
+"Loja","plásticos","sí","no",NA,"red municipal",840,850.63,94
+"Ambato","farmacéutica","sí","sí",2689.14551536276,"red municipal",2286.92643647105,1876.36167447237,269
+"Cuenca","procesamiento de alimentos","sí","sí",1975.18,"red municipal",797.1,746.46,84
+"Ambato","farmacéutica","sí","sí",2151.66,"red municipal y río",1175.3,1128.47,78
+"Manta","plásticos","sí","no",NA,"río",877.6,618.37,76
+"Guayaquil","plásticos","sí","no",NA,"río",964.7,907.49,80
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"pozo",1038.7,910.73,69
+"Quito","farmacéutica","no","sí",976.71,"red municipal y río",816.5,742.25,87
+"Quito","procesamiento de alimentos","sí","sí",1956.22,"pozo",794.4,860.2,68
+"Loja","textil","sí","sí",1294.4,"red municipal y pozo",1077.9,979.44,98
+"Guayaquil","textil","sí","sí",1702.13,"pozo",783.5,522.51,77
+"Guayaquil","plásticos","sí","sí",699.56,"pozo",875.4,718.95,90
+"Quito","textil","no","no",NA,"red municipal",721.2,783.51,82
+"Cuenca","farmacéutica","sí","no",NA,"red municipal y pozo",939.9,905.24,90
+"Guayaquil","procesamiento de alimentos","sí","sí",1296.91,"red municipal y pozo",1023.9,957.98,94
+"Loja","química","sí","no",NA,"red municipal y pozo",747.3,817.57,70
+"Quito","química","no","no",NA,"pozo y río",533.5,592.56,83
+"Ambato","química","sí","sí",1601.87,"red municipal",860.3,747.88,86
+"Guayaquil","metalmecánica","no","sí",567.79,"pozo",808.7,587.8,93
+"Manta","procesamiento de alimentos","no","no",NA,"red municipal y pozo",678.2,620.83,89
+"Cuenca","textil","sí","sí",763.25,"río",790.6,905,83
+"Quito","farmacéutica","sí","no",NA,"red municipal",1002.8,1040.14,99
+"Quito","plásticos","sí","no",NA,"red municipal",972.2,1028.86,87
+"Ambato","farmacéutica","sí","sí",1545.06,"pozo",995.9,940.14,81
+"Loja","farmacéutica","sí","sí",1885.89,"red municipal y río",770.9,661.05,89
+"Loja","textil","sí","sí",1893.56,"pozo y río",802.5,734.77,87
+"Quito","farmacéutica","sí","no",NA,"pozo y río",852.8,905.61,76
+"Manta","química","sí","sí",1586.04,"pozo",797.5,536.97,65
+"Loja","metalmecánica","sí","no",NA,"red municipal",905.3,818.32,79
+"Quito","plásticos","sí","sí",1576.66,"pozo",861.5,979.37,88
+"Guayaquil","textil","sí","no",NA,"red municipal y pozo",965.1,696.43,75
+"Ambato","plásticos","sí","sí",1332.39,"red municipal",856.9,807.68,88
+"Loja","plásticos","sí","no",NA,"red municipal y río",2528.35102688603,2295.75715166346,252
+"Guayaquil","metalmecánica","sí","sí",2311.68,"río",958.6,840.24,82
+"Loja","farmacéutica","no","no",NA,"red municipal",701.7,655.82,96
+"Cuenca","textil","sí","sí",1140.4,"río",911.2,906.44,82
+"Ambato","textil","sí","sí",1319.43,"red municipal y pozo",834.5,786.25,88
+"Ambato","química","sí","sí",2221.91,"río",640.2,559.94,87
+"Cuenca","plásticos","sí","no",NA,"red municipal y pozo",828.2,704.35,91
+"Loja","plásticos","sí","sí",1572.63,"red municipal",852.2,918.25,73
+"Manta","metalmecánica","sí","no",NA,"red municipal y pozo",983.3,761.18,95
+"Cuenca","plásticos","sí","sí",744.33,"red municipal y río",781.2,800.03,103
+"Loja","plásticos","no","sí",911.89,"red municipal",736.1,845.48,85
+"Guayaquil","metalmecánica","sí","no",NA,"red municipal",962.9,632.36,86
+"Quito","metalmecánica","sí","sí",1204.95,"red municipal",865.8,878.04,88
+"Loja","textil","sí","sí",2852.47386317793,"red municipal y pozo",2553.7530066683,2327.90799905156,300
+"Loja","textil","no","sí",681.54,"red municipal y río",605.6,584.65,87
+"Manta","metalmecánica","sí","no",NA,"pozo y río",881.1,830.27,74
+"Quito","metalmecánica","sí","sí",542.39,"red municipal y río",868.4,798.84,86
+"Cuenca","procesamiento de alimentos","no","sí",1801.25,"río",677,768.07,74
+"Guayaquil","farmacéutica","no","sí",1457.23,"pozo y río",791,581.48,99
+"Manta","plásticos","sí","sí",1200.01,"pozo",655,467.11,75
+"Ambato","farmacéutica","sí","no",NA,"red municipal",615.8,612.62,82
+"Manta","química","sí","no",NA,"red municipal",890.5,838.66,86
+"Loja","plásticos","sí","no",NA,"red municipal y río",1084.4,1105.83,83
+"Cuenca","farmacéutica","sí","sí",1569.37,"pozo y río",866,753.58,85
+"Guayaquil","metalmecánica","sí","sí",1186.73,"red municipal y río",931.6,655.11,83
+"Manta","metalmecánica","sí","no",NA,"red municipal y pozo",734.9,578.12,79
+"Guayaquil","procesamiento de alimentos","sí","no",NA,"red municipal",957.3,768.14,72
+"Manta","textil","sí","sí",1276.47,"red municipal y pozo",861.3,784.31,94
+"Quito","procesamiento de alimentos","sí","sí",557.72,"red municipal",842.5,956.02,81
+"Quito","química","sí","sí",660.8,"red municipal y pozo",1093.5,930.3,87
+"Ambato","plásticos","sí","sí",1401.98,"río",827.6,887.86,78
+"Quito","procesamiento de alimentos","no","sí",1821.04,"red municipal y pozo",637.6,564.29,100
+"Manta","metalmecánica","sí","sí",2553.43,"red municipal",925.2,853.97,103
+"Ambato","plásticos","sí","sí",991.46,"red municipal y pozo",746.7,836.14,86
+"Guayaquil","procesamiento de alimentos","no","no",NA,"red municipal y pozo",817.4,715.66,93
+"Ambato","procesamiento de alimentos","sí","no",NA,"pozo",875.4,889.75,80
+"Manta","procesamiento de alimentos","sí","sí",1573.43,"red municipal",893.7,760.37,83
+"Guayaquil","metalmecánica","sí","sí",1746.74,"red municipal y río",980.1,927.23,92
+"Loja","química","sí","no",NA,"río",1778.40228224306,1902.74919301094,294
+"Cuenca","farmacéutica","no","no",NA,"río",602.4,617.11,105
+"Cuenca","metalmecánica","sí","sí",1812.15,"red municipal y río",518,504.82,74
+"Manta","textil","sí","no",NA,"red municipal",793.5,602.97,102
+"Loja","plásticos","sí","sí",1869.57,"red municipal y pozo",786,780.74,78
+"Quito","farmacéutica","sí","no",NA,"red municipal y pozo",746.2,763.64,84
+"Ambato","procesamiento de alimentos","sí","sí",1856.86,"pozo",1047.7,1003.17,83
+"Guayaquil","textil","sí","sí",1948.49,"red municipal y pozo y río",892.5,583.8,97
+"Quito","química","sí","sí",2259.55,"río",862.2,776.45,67
+"Manta","metalmecánica","sí","sí",1229.43,"pozo y río",900.5,828.8,105
+"Manta","textil","sí","sí",1304.14,"red municipal",923.3,856.98,87
+"Ambato","metalmecánica","sí","no",NA,"red municipal y pozo",855.2,911.14,93
+"Guayaquil","plásticos","sí","no",NA,"pozo y río",687.3,532.29,84
+"Loja","química","sí","no",NA,"pozo",930.6,850.68,88
+"Manta","química","sí","sí",2143.44,"red municipal",849.5,695.89,94
